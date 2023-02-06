@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1100731豪雨" id="1100731豪雨">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1100731豪雨</name>
+  <Placemark>
+	<name>歡喜鎮</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.380365325612,22.5867091228157,0 120.379681568808,22.5869016035391,0 120.379701607952,22.5882919081954,0 120.379750861452,22.5890237968624,0 120.38059156511,22.5889782610858,0 120.380306467533,22.5881235131444,0 120.380365325612,22.5867091228157,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永芳里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.399792665039,22.6063474494645,0 120.400635181641,22.6048251006506,0 120.40066783032,22.6039420401137,0 120.399714781887,22.6043666890486,0 120.398958615091,22.6059161193982,0 120.399792665039,22.6063474494645,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>新厝路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.407689514142,22.56211595925,0 120.409150770877,22.5621213359586,0 120.40953,22.56129,0 120.407672933294,22.5611792424934,0 120.407689514142,22.56211595925,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>崇德橋旁</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.362306404472,22.8756623684508,0 120.362770475228,22.8756761749448,0 120.363300503123,22.87617129038,0 120.363917778692,22.8764922958476,0 120.364503053161,22.8763035139853,0 120.364677153652,22.8758264059235,0 120.364203979427,22.8751562608521,0 120.364114066648,22.8750842217815,0 120.364049994282,22.8750003393706,0 120.363895786926,22.8748922032837,0 120.363470674013,22.8748188229934,0 120.363032502121,22.8747812290977,0 120.362761038778,22.8749354476482,0 120.362501909545,22.8752091812007,0 120.362281735342,22.8754233374735,0 120.362306404472,22.8756623684508,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>田寮溪房屋積水120公分</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.394424649475,22.8628545532071,0 120.394773190017,22.8627483591752,0 120.394581885143,22.8622817111511,0 120.394233981118,22.8622445471238,0 120.394424649475,22.8628545532071,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>月球路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.385616263737,22.8820551690329,0 120.385975012912,22.8825583131782,0 120.38669230444,22.8836123848131,0 120.386770307668,22.8834693260777,0 120.3857842444,22.8819733861807,0 120.385616263737,22.8820551690329,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>小滾水</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.384944789446,22.8785614686041,0 120.385336106972,22.8786537932023,0 120.385630107074,22.878383793253,0 120.386216107243,22.8780247933532,0 120.386522103928,22.8775879363215,0 120.387012238913,22.8775420395666,0 120.387579622279,22.8775203320457,0 120.387659763668,22.8768994152498,0 120.387428768956,22.8766595929183,0 120.387345107767,22.8763137935534,0 120.387148107743,22.8762657527049,0 120.386953107702,22.8763097934881,0 120.3865542216,22.8761783566365,0 120.386321469277,22.8763303757824,0 120.386124471863,22.8765589910762,0 120.385782346294,22.8769495200152,0 120.385389107253,22.8772517932209,0 120.384862500377,22.8773664867352,0 120.3847151964,22.8780110353104,0 120.384944789446,22.8785614686041,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>新路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.359442133012,22.8874470216693,0 120.359647420296,22.8876628870744,0 120.359737170643,22.8877707677586,0 120.359982540015,22.887688129609,0 120.360370017789,22.8875463299319,0 120.360461335956,22.887319712205,0 120.360320123337,22.8871877317126,0 120.360243434348,22.8870440641551,0 120.35980455205,22.8871498168361,0 120.359597920067,22.8872206641835,0 120.359442133012,22.8874470216693,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>新港里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.208550915085,22.8240278662271,0 120.209213990794,22.8241386760282,0 120.209331391316,22.8238943574409,0 120.209087119217,22.8237916007236,0 120.209068478525,22.8236720441955,0 120.209230363201,22.8235354640733,0 120.20930224375,22.82336259797,0 120.208987265339,22.823229624235,0 120.209157215017,22.8228123437745,0 120.209255628677,22.8225081989323,0 120.209289226642,22.8222694376061,0 120.209482982332,22.8221927473239,0 120.209510067264,22.8219659000257,0 120.209382299882,22.8217741236949,0 120.208970602771,22.8216526164857,0 120.208744388174,22.8217709573985,0 120.208484263186,22.8221818163771,0 120.208165176897,22.8227596314817,0 120.208093502592,22.8228966588852,0 120.207808532244,22.8231461167508,0 120.207672006283,22.8233544998969,0 120.207632099844,22.823569336612,0 120.207657286627,22.8236710062378,0 120.207572551132,22.8238378344097,0 120.207377581551,22.8241235781702,0 120.207325098353,22.8242845934279,0 120.207691903425,22.8243700425863,0 120.207871980607,22.8244306699166,0 120.207871185588,22.824568049523,0 120.208044992222,22.8245987794987,0 120.208194095311,22.8244442173689,0 120.208201921043,22.8242053283101,0 120.208299888805,22.8239788335549,0 120.208550915085,22.8240278662271,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.209924563936,22.8186994188121,0 120.21016653292,22.8187531824178,0 120.210368476797,22.8185964905327,0 120.210606034905,22.8185212103797,0 120.210802177148,22.8184318669428,0 120.210841085406,22.8183890525321,0 120.210831240749,22.81790589089,0 120.210641618788,22.8177138092171,0 120.210528518643,22.817660684786,0 120.210455498837,22.8178084585598,0 120.210438464152,22.8180807523463,0 120.21044284733,22.8182145738639,0 120.210323572475,22.8183382255712,0 120.210054286756,22.8185519263953,0 120.209924563936,22.8186994188121,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永華里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100731豪雨">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.221298434942,22.8169065701438,0 120.22095055569,22.8180266401233,0 120.221630163314,22.8181733180046,0 120.222980024037,22.8187533340076,0 120.223388444047,22.8189990321048,0 120.224145543305,22.8191174055755,0 120.224471145833,22.8189684653004,0 120.224753317521,22.8182960590413,0 120.22527267954,22.8167001507239,0 120.2248510303,22.8160601605145,0 120.224337463348,22.8159501439741,0 120.221902163731,22.8152107354224,0 120.221298434942,22.8169065701438,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

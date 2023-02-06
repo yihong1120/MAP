@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="105莫蘭蒂颱風" id="105莫蘭蒂颱風">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>105莫蘭蒂颱風</name>
+  <Placemark>
+	<name>鼓山區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#105莫蘭蒂颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.276684206341,22.6496752180316,0 120.278988969697,22.6502040813127,0 120.279053838719,22.6498467676845,0 120.281395403024,22.6498572829842,0 120.281186522371,22.6456433341284,0 120.281791252248,22.6453761182776,0 120.281686541604,22.6439062275618,0 120.281694212124,22.6424315774586,0 120.280769201878,22.6424274303754,0 120.280447037151,22.6432303594869,0 120.278275102703,22.643971343561,0 120.276684206341,22.6496752180316,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>前鎮區鎮榮里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#105莫蘭蒂颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.306374303031,22.5887800570216,0 120.306548069905,22.5895097408622,0 120.307329786526,22.5903125894195,0 120.308444536447,22.5904114498303,0 120.309840280331,22.5916879992135,0 120.309983605058,22.5918289084774,0 120.310692357729,22.5920200641449,0 120.312079123561,22.5910527282219,0 120.312601368113,22.5906339262045,0 120.312830658658,22.5901716214849,0 120.312241361546,22.589540981915,0 120.310128843944,22.5881143212559,0 120.30890336181,22.5879940730026,0 120.3074716869,22.5872798964351,0 120.30683629069,22.5876298664592,0 120.306374303031,22.5887800570216,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>前鎮區信德里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#105莫蘭蒂颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.31152870357,22.5882408763899,0 120.313439870355,22.589931100111,0 120.314593099055,22.5888708276306,0 120.314649553493,22.5888710685274,0 120.315324873355,22.5893105056476,0 120.31622817769,22.5893143536967,0 120.317396324703,22.5890399256249,0 120.318191614512,22.5880479546236,0 120.318740622653,22.5873867187207,0 120.319084765367,22.5862880551089,0 120.317564430749,22.5854783384358,0 120.316027102563,22.5843018277507,0 120.314703695452,22.5855360094972,0 120.313568183271,22.5868254757964,0 120.312699768481,22.5873784453498,0 120.31152870357,22.5882408763899,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>前鎮區德昌里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#105莫蘭蒂颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.316001753631,22.5819372919942,0 120.319652673275,22.5830838200692,0 120.321149470367,22.5809660299226,0 120.31824651466,22.5788572039231,0 120.316001753631,22.5819372919942,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

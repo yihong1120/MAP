@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="106海棠颱風" id="106海棠颱風">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>106海棠颱風</name>
+  <Placemark>
+	<name>大社交流道</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#106海棠颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.362159304402,22.7345375577952,0 120.362176235913,22.734308256421,0 120.362264207485,22.7335033105337,0 120.362295137763,22.7321907205622,0 120.362079029887,22.7305777525592,0 120.361891828365,22.7280897573615,0 120.361944613778,22.7274220946343,0 120.361687868005,22.7267369082262,0 120.361449810048,22.7262791239477,0 120.36130084132,22.726184509822,0 120.361136483204,22.7262047553533,0 120.361056507199,22.726258358362,0 120.360952449154,22.7263731113824,0 120.360874009538,22.7269408744338,0 120.360934596687,22.7274822255355,0 120.360901356567,22.7288233620498,0 120.360984137113,22.7294665869503,0 120.361071148748,22.7298388154527,0 120.361225965477,22.7301721889835,0 120.361345502675,22.7309254469276,0 120.361362196781,22.7314355703266,0 120.361291539448,22.7321488895246,0 120.361237751556,22.7329324283615,0 120.361254808177,22.7339617433008,0 120.361346421419,22.7345871362413,0 120.361426131311,22.734758101168,0 120.361671892956,22.7348275180989,0 120.361911029651,22.7348211438451,0 120.362031536905,22.7348082266633,0 120.362102088271,22.734658893307,0 120.362159304402,22.7345375577952,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

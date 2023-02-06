@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="108丹娜絲颱風" id="108丹娜絲颱風">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>108丹娜絲颱風</name>
+  <Placemark>
+	<name>北昌一街、二街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.371131506917,22.6475310314209,0 120.372927192563,22.6449023080776,0 120.372004466689,22.6449216290249,0 120.371346494894,22.6453648832991,0 120.370722896845,22.6449906560427,0 120.370551471128,22.6450208086606,0 120.370170203852,22.6454256247004,0 120.37011507392,22.647051769624,0 120.371131506917,22.6475310314209,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>神農路水管路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.373605333823,22.6595446760697,0 120.373855949383,22.6578924680836,0 120.372523410668,22.659377559255,0 120.37107653888,22.6594020497103,0 120.371137235743,22.660997990228,0 120.371285346775,22.6610903535284,0 120.372428310342,22.661074849156,0 120.373605333823,22.6595446760697,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中正路46巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.369669135278,22.6567979195862,0 120.366964488068,22.6553304410244,0 120.36678230231,22.6563738189071,0 120.367622256586,22.6567442657085,0 120.369517396661,22.6571815923447,0 120.369669135278,22.6567979195862,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>美山路19巷1弄</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.37768129789,22.6440295260748,0 120.378717348589,22.6414805134099,0 120.377726921826,22.6414100066651,0 120.377004122267,22.6410877609666,0 120.377201780474,22.6397849494596,0 120.376896198096,22.6396170561437,0 120.375252800691,22.6432008324022,0 120.376045892872,22.6428836231605,0 120.37768129789,22.6440295260748,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中正路東豐巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.376096137904,22.6492260012759,0 120.374084648847,22.6483454439013,0 120.373236056004,22.6503917629601,0 120.375437584337,22.6512030735619,0 120.376096137904,22.6492260012759,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>神農路美山路口</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.391674560151,22.6495253722007,0 120.391566460493,22.649239029577,0 120.391093846495,22.649380144282,0 120.391144221339,22.6495036896659,0 120.391674560151,22.6495253722007,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>林南里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.316711815871,22.624865912526,0 120.317261777346,22.6239033363269,0 120.320009050417,22.6247693624121,0 120.320683702193,22.6228277951168,0 120.319896353562,22.6225769258869,0 120.319719365939,22.6230240230574,0 120.316948196952,22.6223344195408,0 120.316211694374,22.6236191579773,0 120.315806932084,22.6234836939249,0 120.315458913728,22.6243212595311,0 120.316711815871,22.624865912526,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中義里忠水街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.352434275042,22.6290069232827,0 120.352649139381,22.626757959841,0 120.349158509347,22.6276832323686,0 120.349391344628,22.6298436744545,0 120.352434275042,22.6290069232827,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>衛武里尚勇路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.344351421661,22.6250595715367,0 120.342407522426,22.6248968303568,0 120.342370728229,22.6281778646137,0 120.344429101618,22.6280372474726,0 120.344351421661,22.6250595715367,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>福德一路、正言路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.336736507415,22.6351859587732,0 120.335942888451,22.6306242754814,0 120.330817035782,22.6322400294223,0 120.332619222737,22.6358642241583,0 120.336736507415,22.6351859587732,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>覺民路陽明路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.344566277715,22.641967965307,0 120.344793877694,22.6411663214949,0 120.342933526461,22.6417110909268,0 120.342807092756,22.6404900922679,0 120.342305036114,22.63951489205,0 120.344127023782,22.6396995836635,0 120.34496666346,22.638571753732,0 120.34434556001,22.6363757634081,0 120.337688364493,22.6375522904074,0 120.33766341427,22.6396999713231,0 120.340324641341,22.6394109609498,0 120.341025861044,22.6426128161496,0 120.344566277715,22.641967965307,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>寶民里水源路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.342272048471,22.635077162676,0 120.340983464221,22.6346410267256,0 120.337363620319,22.6351806013612,0 120.33759178571,22.6371374825903,0 120.343428531269,22.636120830887,0 120.342272048471,22.635077162676,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>光富路、有光路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.334708927745,22.6365351212127,0 120.333552786256,22.6360861810924,0 120.333111554981,22.6362131582799,0 120.332577297593,22.6361041113729,0 120.33256868855,22.6361295024242,0 120.331568816026,22.6362050295316,0 120.332040969122,22.638209534846,0 120.335176980627,22.637635918136,0 120.334708927745,22.6365351212127,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>建元路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.325409449097,22.6475715657191,0 120.324262259223,22.6459743196049,0 120.323717913144,22.6456838087691,0 120.321894271532,22.6453960059992,0 120.319863220199,22.6462639199008,0 120.318993961321,22.6455247407783,0 120.32059688914,22.6449729042682,0 120.321825331656,22.6448992304856,0 120.322486151981,22.6440838581851,0 120.323058842669,22.6437083851879,0 120.323056922012,22.6436480664926,0 120.322990532353,22.6432602917183,0 120.322020858621,22.6437578736069,0 120.321145021741,22.643787398677,0 120.321055646457,22.6445179020284,0 120.321055281687,22.6445388625217,0 120.317162890989,22.6452499112255,0 120.3169259095,22.647842263624,0 120.320727385784,22.648592865588,0 120.324166593075,22.6497116425419,0 120.324727127817,22.6492519415208,0 120.325409449097,22.6475715657191,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>德仁里旅順街九如二路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.313638952945,22.640216966174,0 120.313594605317,22.638872517174,0 120.312495860887,22.6389337088743,0 120.310446067324,22.6390923127978,0 120.306687371656,22.6393133774705,0 120.309743444834,22.6403817888318,0 120.308524517771,22.6408821321019,0 120.308378038865,22.6413345351106,0 120.308901580863,22.6418149271784,0 120.310258233992,22.6419251157761,0 120.311134487856,22.6417282645097,0 120.311091244352,22.6408272177325,0 120.313638952945,22.640216966174,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>建中路大綠光大樓周邊</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.316114586608,22.6467072095499,0 120.315956156825,22.6466630454615,0 120.315981111533,22.6467719301089,0 120.31599470404,22.646775375515,0 120.316021044033,22.6467925820758,0 120.316114586608,22.6467072095499,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>濱山街與鳳山區交界</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.356145798531,22.6435310132384,0 120.359548846041,22.6402238981507,0 120.357907013478,22.6398778998087,0 120.356593023281,22.6397639116606,0 120.356580093424,22.6397229703855,0 120.354437378373,22.640210081651,0 120.353407370772,22.6370689644034,0 120.350629882412,22.6376262444121,0 120.351988565658,22.6441703011565,0 120.351395828246,22.6473849820628,0 120.35430024471,22.6457872176164,0 120.356145798531,22.6435310132384,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>龍華北街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.34501224638,22.6507702727146,0 120.344389473375,22.6492042019975,0 120.342138665447,22.6508294733875,0 120.344023584936,22.6533933008325,0 120.34501224638,22.6507702727146,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>建工路201巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.337494636311,22.6530674240131,0 120.335840288313,22.6511018812493,0 120.334479287704,22.6546842013195,0 120.336022809284,22.6554501556518,0 120.337951811327,22.6538301597396,0 120.337494636311,22.6530674240131,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>大順路與鼎山街口</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.317538681611,22.6554035121424,0 120.317209826518,22.6545970738041,0 120.315378246296,22.6554029282009,0 120.31547521888,22.6570689574089,0 120.315624077565,22.6579418347913,0 120.316020313058,22.6583725275245,0 120.316256394155,22.6587030225713,0 120.316622320946,22.6588293358867,0 120.317051957323,22.6580113777976,0 120.315892686665,22.657431348264,0 120.315903282215,22.6561800632221,0 120.316930414728,22.6556752310433,0 120.317538681611,22.6554035121424,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>八德東路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.34361658882,22.6863117359824,0 120.343021702162,22.6859426875403,0 120.33940014849,22.6844632044799,0 120.339214052783,22.6857063633286,0 120.33982865113,22.6853385574348,0 120.340559797536,22.6854537189629,0 120.340739749969,22.6858989442633,0 120.341622779128,22.6860283518534,0 120.342213276333,22.6859854343348,0 120.342236185243,22.6859962153584,0 120.342533943303,22.6862566693121,0 120.3431179466,22.6867769513034,0 120.343179759789,22.6872420515407,0 120.342833845611,22.6872993818584,0 120.342259762325,22.6873567873601,0 120.341539574523,22.6877881179541,0 120.341572984807,22.6882411325798,0 120.341098795237,22.6890270891914,0 120.342842521825,22.6888532996464,0 120.343291610681,22.6877534712333,0 120.3436604928,22.6867995885887,0 120.34361658882,22.6863117359824,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中山路180巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.395349668761,22.6636825916689,0 120.395190901331,22.6634129560827,0 120.394877052797,22.6630504105145,0 120.393095929766,22.6630738292199,0 120.393795560969,22.6632794974565,0 120.394349438898,22.6636235960835,0 120.394534002834,22.6634633564592,0 120.394732505874,22.6635980660817,0 120.394771293384,22.6636109911338,0 120.394582442143,22.6640779103071,0 120.394543858176,22.6644041732122,0 120.394786134565,22.6642605332136,0 120.395349668761,22.6636825916689,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>東山路27巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.369389934526,22.6654505153974,0 120.36871809711,22.6651059697478,0 120.368018938276,22.6652934753756,0 120.366802846954,22.6646525429362,0 120.36609592453,22.6652115533974,0 120.366949316124,22.666006466346,0 120.366570246686,22.6664609681173,0 120.36654843404,22.6676914705756,0 120.367155745864,22.6676839397898,0 120.368029643293,22.6673071022481,0 120.369070092573,22.6660148668789,0 120.369389934526,22.6654505153974,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中正路400巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.365671238468,22.6695299875249,0 120.365677723862,22.6682378354087,0 120.363638158692,22.667919625967,0 120.363490062335,22.667881022784,0 120.362430113088,22.6686993606595,0 120.362101604178,22.668601621938,0 120.36164800957,22.6694337130875,0 120.361692821292,22.6696887980332,0 120.363397341206,22.6705043034886,0 120.364411739044,22.6705377529605,0 120.365671238468,22.6695299875249,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中正路興農巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.370849050047,22.663127873844,0 120.372428309935,22.6610748491544,0 120.371285346368,22.6610903535268,0 120.371137235336,22.6609979902264,0 120.371076538473,22.6594020497087,0 120.368848178612,22.6594397432518,0 120.367769753735,22.6620250480832,0 120.369402863737,22.6625339085484,0 120.370849050047,22.663127873844,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>中正路46巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.367622256179,22.6567442657069,0 120.366782301904,22.6563738189055,0 120.366631256475,22.6569239144483,0 120.366382034054,22.6572900575188,0 120.366377408559,22.6582996418426,0 120.366036175328,22.6591470320561,0 120.368642144611,22.6593946403619,0 120.369517397227,22.6571815923469,0 120.367622256179,22.6567442657069,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>仁林路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.3624672634,22.7024429298338,0 120.36422191512,22.7011383368499,0 120.364549317194,22.7002874397694,0 120.363959264811,22.7000338573588,0 120.363087399052,22.7003197831162,0 120.362085654388,22.7007306676286,0 120.361290861284,22.7011105297699,0 120.360126340821,22.7015099367894,0 120.359544436237,22.7017735910287,0 120.359732928733,22.7026352018016,0 120.359979921551,22.702393482429,0 120.360161814113,22.701958877103,0 120.360470465839,22.7017465481709,0 120.3604973728,22.7017465626956,0 120.360771170075,22.7018571808021,0 120.361160738715,22.7021279628358,0 120.361129061097,22.7026652908077,0 120.361488977432,22.7027635770015,0 120.3624672634,22.7024429298338,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>高楠公路1616巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.321071858512,22.7260964629159,0 120.320880761307,22.7255476690595,0 120.320325852522,22.7262208684185,0 120.318909017769,22.7270009078672,0 120.319857749535,22.7280917142267,0 120.320726604342,22.7289716652927,0 120.320931214484,22.728508158739,0 120.321044541996,22.7280771834465,0 120.321199603186,22.7277348345344,0 120.321295550507,22.7273522758984,0 120.321152585056,22.7265472845342,0 120.321071858512,22.7260964629159,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>國昌國中、右昌街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.291260041679,22.7239038951801,0 120.294261018114,22.7224555697893,0 120.294499594788,22.7221344562149,0 120.293893240069,22.7219228321915,0 120.29267512879,22.7217468500928,0 120.29090446229,22.721484524417,0 120.288268796916,22.720174778674,0 120.289119546701,22.7188599661552,0 120.287353073231,22.7176200215192,0 120.286812261631,22.7173107014899,0 120.290115421997,22.7135535404829,0 120.288603245384,22.711178595035,0 120.288521222943,22.7113394358716,0 120.285887184088,22.7160754701243,0 120.283899239537,22.7151433986458,0 120.281578288095,22.7143856513926,0 120.280413185323,22.7141102021739,0 120.277901819038,22.7184769049846,0 120.284216783429,22.7211174275941,0 120.290476301268,22.7237571004714,0 120.291135513174,22.7235387260482,0 120.291260041679,22.7239038951801,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>楠梓新路337巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.327010328602,22.7299981816695,0 120.326413771757,22.7291746020767,0 120.326180528424,22.7294233956402,0 120.325366425415,22.730057796971,0 120.325438926792,22.7306993911844,0 120.326027606465,22.7305494079767,0 120.326447673758,22.7303849323926,0 120.327010328602,22.7299981816695,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>美山路與仁德路口</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#108丹娜絲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.391674559745,22.6495253721991,0 120.391144220932,22.6495036896644,0 120.391530506705,22.6504510567322,0 120.39196243267,22.6502879049162,0 120.391674559745,22.6495253721991,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

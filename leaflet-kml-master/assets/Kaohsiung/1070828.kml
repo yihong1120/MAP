@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1070828豪雨" id="1070828豪雨">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1070828豪雨</name>
+  <Placemark>
+	<name>1-1仁美村</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.378807223,22.6409640420001,0 120.379324068,22.641488876,0 120.379504843,22.6427531420001,0 120.378806749,22.64509072,0 120.377488253,22.6480722430001,0 120.376247191,22.651411571,0 120.37503215,22.6529857740001,0 120.374179174,22.6530333850001,0 120.373558869,22.652794774,0 120.374334707,22.650075563,0 120.376118812,22.6449234670001,0 120.377825104,22.640963947,0 120.378807223,22.6409640420001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-2埤北路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.378789419,22.6349526490001,0 120.3789168,22.6350030570001,0 120.379310057,22.634234581,0 120.379954448,22.6331564590001,0 120.379882549,22.633098526,0 120.379699286,22.6333670400001,0 120.379153997,22.634275232,0 120.378789419,22.6349526490001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-3仁光路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.353984704,22.6838948330001,0 120.355213587,22.6816428290001,0 120.353705247,22.6808514270001,0 120.353417218,22.681005989,0 120.352952124,22.681216229,0 120.352567942,22.6812745240001,0 120.351785843,22.681268166,0 120.351412392,22.6811509400001,0 120.351385715,22.6811418990001,0 120.351047412,22.68096502,0 120.351029847,22.6809521720001,0 120.350747529,22.6807877260001,0 120.350375713,22.680544528,0 120.350364804,22.68053389,0 120.349864177,22.6801348970001,0 120.349629287,22.679965563,0 120.349541376,22.6801648600001,0 120.349458301,22.6804629710001,0 120.349421835,22.680833056,0 120.34938738,22.6812188500001,0 120.349378502,22.6817403380001,0 120.349378953,22.682254754,0 120.349362999,22.6826823960001,0 120.34930008,22.6832386400001,0 120.349188432,22.6834741070001,0 120.34917275,22.68379099,0 120.348913645,22.68424986,0 120.352777805,22.686023052,0 120.353984704,22.6838948330001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-3澄合街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.349656762,22.6798579320001,0 120.350050086,22.6801191050001,0 120.350180439,22.6799531230001,0 120.350408442,22.679578565,0 120.350411131,22.679572207,0 120.350579727,22.679302836,0 120.350585145,22.6792901700001,0 120.350984167,22.6787377330001,0 120.351389743,22.678173445,0 120.351831417,22.6775202580001,0 120.352233717,22.676813505,0 120.352460531,22.676472828,0 120.352064123,22.6762907180001,0 120.351581038,22.676940852,0 120.350522615,22.6785261420001,0 120.349656762,22.6798579320001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-3仁忠路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.353920636,22.6805262620001,0 120.353633756,22.680747668,0 120.353926452,22.680939111,0 120.355223983,22.6816122990001,0 120.356567221,22.6792020500001,0 120.357365976,22.677849172,0 120.357758433,22.677182369,0 120.35797432,22.6768165550001,0 120.358386432,22.676145988,0 120.357096479,22.675536043,0 120.355266599,22.6785719100001,0 120.354442692,22.6798962710001,0 120.353920636,22.6805262620001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-4美山路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.392339441,22.651071287,0 120.392402832,22.6510297,0 120.392222336,22.650743,0 120.39197769,22.6503266770001,0 120.391718641,22.649883823,0 120.391607594,22.649913965,0 120.39163994,22.6499782130001,0 120.391853536,22.6503012470001,0 120.392057759,22.6506339200001,0 120.392339441,22.651071287,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-4中正路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.36407653,22.659063922,0 120.36431954,22.6591126640001,0 120.36445963,22.6582684310001,0 120.364587628,22.657535765,0 120.364367124,22.6575177830001,0 120.364243941,22.658255534,0 120.36407653,22.659063922,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-4神農路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.379766172,22.6598501600001,0 120.379850765,22.6599177310001,0 120.379992733,22.6599725850001,0 120.380149859,22.6598871850001,0 120.380162812,22.659883805,0 120.380130932,22.659724731,0 120.38022219,22.659622013,0 120.380220625,22.659430172,0 120.379912251,22.659503343,0 120.379735808,22.6595684920001,0 120.379655194,22.65961252,0 120.379761759,22.6597410200001,0 120.379766172,22.6598501600001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-5歡喜大廈社區、內坑路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.383191183504,22.5894412654454,0 120.387232472252,22.5904983634748,0 120.387545562269,22.5905798854772,0 120.387914846234,22.5906243464789,0 120.388549053509,22.5906687994859,0 120.388974532478,22.5906169034878,0 120.389528462481,22.5906242964934,0 120.389697047284,22.590557583493,0 120.389520422603,22.5903500584925,0 120.38889424535,22.5904241984876,0 120.387922867564,22.5904094034799,0 120.387409081269,22.5903427104768,0 120.386942636807,22.5902075894733,0 120.386605441432,22.5900889974712,0 120.386573327917,22.5900815854709,0 120.385947117938,22.5898592274662,0 120.385353033386,22.5897406384625,0 120.384855290483,22.5895331044592,0 120.384381638883,22.5894219264551,0 120.383876790788,22.5892976794517,0 120.383041898321,22.5891790914459,0 120.381315909292,22.5891346094332,0 120.381396206713,22.5879413024332,0 120.381404236996,22.5877782424345,0 120.381492553539,22.5865923424398,0 120.38134805319,22.5865923394371,0 120.381195499805,22.5886306024327,0 120.381183597149,22.5891254084303,0 120.380258877133,22.5891008614242,0 120.380001848451,22.5885689654231,0 120.380046164491,22.5882280064246,0 120.379975259348,22.5882170954236,0 120.379930944275,22.5885935144219,0 120.380182063879,22.5891063174233,0 120.380060934656,22.5893763574212,0 120.380577950054,22.5893872674256,0 120.381003381968,22.5893927224283,0 120.381467222502,22.5894036314326,0 120.381910385709,22.5894036284357,0 120.382318432335,22.5894147004389,0 120.382828219628,22.5894119574432,0 120.383191183504,22.5894412654454,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-6新港里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.210847963,22.8161414850001,0 120.210430567,22.817746271,0 120.210168639,22.81844174,0 120.209752547,22.818867815,0 120.209708322,22.819152553,0 120.20966057,22.8195441340001,0 120.209662627,22.8198823000001,0 120.209588809,22.820306885,0 120.209386267,22.820869483,0 120.209307657,22.821356786,0 120.208994887,22.82171355,0 120.208793203,22.8226453460001,0 120.208606117,22.8237234740001,0 120.208846591,22.8238438120001,0 120.209106196,22.823818568,0 120.209427281,22.8238864740001,0 120.2096092,22.823860817,0 120.209798176,22.823557954,0 120.210222493,22.822296238,0 120.210655475,22.821094245,0 120.211676841,22.8184044240001,0 120.211975531,22.817137051,0 120.212118526,22.8163555990001,0 120.212112982,22.8158181210001,0 120.211806131,22.8158063770001,0 120.211226474,22.815854766,0 120.210847963,22.8161414850001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-7厚生里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.280749119,22.64349235,0 120.277650408,22.644351736,0 120.276962976,22.6468832570001,0 120.276545386,22.646787057,0 120.27623771,22.648258631,0 120.279020444,22.6488482630001,0 120.279782485,22.6488482710001,0 120.279922263,22.646245628,0 120.280888887,22.6458435010001,0 120.280749119,22.64349235,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-7綠川里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.283356986,22.639324071,0 120.283027237,22.64053362,0 120.283238613,22.6406350670001,0 120.283433079,22.640322923,0 120.283652909,22.6399015310001,0 120.283889647,22.6394255170001,0 120.284134836,22.6388480590001,0 120.284346205,22.6383408340001,0 120.28450684,22.637451243,0 120.284523747,22.6369986440001,0 120.284582926,22.6364133860001,0 120.284667469,22.6355784150001,0 120.284684375,22.6348370810001,0 120.284726647,22.6343454550001,0 120.284726646,22.6342205980001,0 120.284287003,22.6340879410001,0 120.283957272,22.6339708880001,0 120.283821997,22.63416598,0 120.283728997,22.6348370870001,0 120.283602177,22.635297495,0 120.283551449,22.636046628,0 120.283509175,22.636428997,0 120.283830455,22.63646021,0 120.283627542,22.637435639,0 120.283424626,22.6386373670001,0 120.283356986,22.639324071,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-7灣興里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.311182997,22.6496566370001,0 120.311095392,22.6497536520001,0 120.311253074,22.6499153460001,0 120.312067783,22.6496323910001,0 120.312242992,22.64920391,0 120.312707282,22.649066475,0 120.312978848,22.648702671,0 120.313101491,22.6484439650001,0 120.313320493,22.6483550360001,0 120.313688416,22.6481529220001,0 120.313907418,22.6480316540001,0 120.313951217,22.6477810320001,0 120.314126418,22.6476031710001,0 120.314301617,22.647376803,0 120.314222777,22.6472636190001,0 120.313968737,22.6475142420001,0 120.313863617,22.6476759330001,0 120.313662136,22.6477729480001,0 120.313373054,22.6479023010001,0 120.313145292,22.6480559070001,0 120.31293505,22.648128667,0 120.312733568,22.64815292,0 120.312575887,22.6481771730001,0 120.312470765,22.648266102,0 120.312015233,22.648807764,0 120.312015232,22.6488320180001,0 120.31163854,22.649123059,0 120.311305646,22.649422185,0 120.311182997,22.6496566370001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-7龍水里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.287990044,22.6513767980001,0 120.29177219,22.6512104980001,0 120.29176361,22.651123435,0 120.291789326,22.6508226730001,0 120.291720702,22.6505139980001,0 120.291712117,22.650292385,0 120.291720692,22.6502448950001,0 120.291677802,22.650023283,0 120.291652066,22.649841243,0 120.291549151,22.6498491620001,0 120.29130044,22.6499045750001,0 120.290923086,22.6499758210001,0 120.290897358,22.6499837370001,0 120.290391362,22.650086645,0 120.289765302,22.6502607860001,0 120.289104938,22.65042701,0 120.288590367,22.6505378260001,0 120.288024337,22.6506090670001,0 120.287990044,22.6513767980001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-8文雅街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.355510087,22.635086288,0 120.354720728,22.6348483620001,0 120.353577133,22.634925566,0 120.353178405,22.6351065650001,0 120.352659959,22.635319333,0 120.352466568,22.6355486480001,0 120.352379941,22.635763199,0 120.35248448,22.636105082,0 120.352567598,22.6363588930001,0 120.353135813,22.636380208,0 120.353681406,22.6363591140001,0 120.35389802,22.6365183620001,0 120.354278815,22.6364547000001,0 120.354568556,22.6364229160001,0 120.354858403,22.636412362,0 120.355164021,22.636322319,0 120.355405949,22.635868757,0 120.355598368,22.6355806060001,0 120.355510087,22.635086288,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-8澄清路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.347062835,22.647485089,0 120.34722449,22.6473687440001,0 120.346773774,22.645593735,0 120.346466574,22.644189979,0 120.346236469,22.6442559880001,0 120.346447566,22.645088389,0 120.347062835,22.647485089,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-8青年路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.348783936,22.64620524,0 120.347598617,22.6471314660001,0 120.347800328,22.647415993,0 120.347954436,22.647456882,0 120.348160792,22.647416074,0 120.348346203,22.6474059110001,0 120.348665668,22.6475184240001,0 120.349055674,22.6472838710001,0 120.349082868,22.6468799890001,0 120.348783936,22.64620524,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-9公園路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.359191773,22.6571620620001,0 120.358996206,22.657643948,0 120.359180703,22.657730835,0 120.359446243,22.6571737410001,0 120.359702133,22.656588583,0 120.359487346,22.656506435,0 120.359334114,22.656819187,0 120.359191773,22.6571620620001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-9大埤路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070828豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.351185419,22.651001658,0 120.351250381,22.651131365,0 120.351676845,22.6509631690001,0 120.352486899,22.6507202660001,0 120.353532169,22.65054744,0 120.354413274,22.6506074720001,0 120.355183562,22.650701457,0 120.355251664,22.6505527370001,0 120.354893424,22.6505082800001,0 120.354421669,22.6504344150001,0 120.353510083,22.650375443,0 120.352449886,22.650522746,0 120.351185419,22.651001658,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

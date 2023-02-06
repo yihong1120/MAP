@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1100603梅雨事件含彩雲颱風" id="1100603梅雨事件含彩雲颱風">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1100603梅雨事件含彩雲颱風</name>
+  <Placemark>
+	<name>武廟路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.33053,22.631375,0 120.330724,22.631105,0 120.331017,22.630835,0 120.33131,22.630522,0 120.331556,22.630388,0 120.331848,22.630389,0 120.332528,22.630121,0 120.332823,22.629851,0 120.332969,22.629445,0 120.332728,22.628948,0 120.332539,22.628268,0 120.332442,22.628314,0 120.332194,22.628808,0 120.331904,22.628809,0 120.331368021739,22.628985,0 120.331321957447,22.628581,0 120.329371,22.629203,0 120.329803,22.6303350000001,0 120.330189,22.63115,0 120.33053,22.631375,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>文鳳路澄清路口</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.346091042553,22.642005,0 120.346429,22.642595,0 120.34657603047,22.642197258406,0 120.346310224215,22.6417947583258,0 120.346091042553,22.642005,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>光復路二段</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.34017,22.629475,0 120.354784945193,22.6292457128127,0 120.353767019279,22.6267566483815,0 120.351498704898,22.6274643116616,0 120.349643080747,22.627982464915,0 120.344082250328,22.6282465495058,0 120.342073751778,22.6284294750254,0 120.34017,22.629475,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永安路15號</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.233164006757,22.8223641400915,0 120.236331582253,22.82340717602,0 120.236449048072,22.8229115483804,0 120.233281086049,22.8219393974455,0 120.233164006757,22.8223641400915,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永安宮一帶</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.22126126293,22.8169369735762,0 120.221260255924,22.8171140788561,0 120.225035369472,22.8184785189748,0 120.226637380568,22.8189822102466,0 120.226144053968,22.8183776403541,0 120.225501699173,22.8170993255987,0 120.225123412717,22.8164244675563,0 120.224590489054,22.8160676549539,0 120.22390533428,22.8156038332096,0 120.223525654133,22.815176919171,0 120.222038728004,22.8146029153209,0 120.22126126293,22.8169369735762,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>興南巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.302141777708,22.8156889974784,0 120.302208194079,22.8159199804089,0 120.302296757323,22.8162429260358,0 120.302514370223,22.8165305966663,0 120.303675567758,22.8162609026845,0 120.304707045665,22.8161578865901,0 120.30562387488,22.8157915392323,0 120.306270504701,22.8153403844498,0 120.305624553579,22.8131155043851,0 120.303000021739,22.813269,0 120.302164,22.815027,0 120.302141777708,22.8156889974784,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>潭底路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.309718048592,22.832789012425,0 120.310079761958,22.8326233274297,0 120.309905020487,22.8302153346346,0 120.309683547725,22.8294079807806,0 120.309558133577,22.8287205087674,0 120.310242,22.826349,0 120.310008956127,22.826383836311,0 120.309498364671,22.8277943894723,0 120.309235786913,22.8287489778548,0 120.309264389454,22.8294658968025,0 120.309451681008,22.8306613668836,0 120.309718048592,22.832789012425,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>嘉峰路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.313009707428,22.8292073206843,0 120.313397422886,22.828993953579,0 120.312628649685,22.8280946442066,0 120.31162790791,22.8271943291159,0 120.309704692561,22.8252148208635,0 120.308550065991,22.824170461108,0 120.30685709309,22.8225503160695,0 120.30635340101,22.8227631627602,0 120.306738567419,22.8230515570902,0 120.308123694913,22.8243836488142,0 120.309201175565,22.8253918373751,0 120.310008956127,22.826383836311,0 120.311240014674,22.8274435310045,0 120.313009707428,22.8292073206843,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>興北巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.304748435011,22.826512814503,0 120.307095206839,22.8259531392671,0 120.306374169223,22.8241690676994,0 120.304491045114,22.8242320961365,0 120.304748435011,22.826512814503,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>歡喜鎮大樓</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.378414644171,22.5850172572165,0 120.381400125114,22.5848615220747,0 120.383871311026,22.5846320773025,0 120.386007041687,22.5846163599196,0 120.385494950091,22.5898472170582,0 120.384930238995,22.5895344319916,0 120.383953723941,22.5892439602341,0 120.38143259373,22.5891148005868,0 120.378756760549,22.5890566855078,0 120.378414644171,22.5850172572165,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>大寮路665巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.410173,22.592812,0 120.412219,22.592321,0 120.414318871685,22.5969610837581,0 120.412217611034,22.5972974825487,0 120.410173,22.592812,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>內坑里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.395384978261,22.605084,0 120.395627,22.605218,0 120.396755,22.603191,0 120.396417,22.603056,0 120.395437,22.604766,0 120.395384978261,22.605084,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>新厝路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603梅雨事件含彩雲颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.405767670952,22.5610615359294,0 120.406982026762,22.5610469040274,0 120.407779,22.561419,0 120.40953,22.56129,0 120.409624,22.56224,0 120.407288,22.562728,0 120.406119,22.562722,0 120.405663783439,22.5612905369572,0 120.405767670952,22.5610615359294,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

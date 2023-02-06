@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="102康芮颱風" id="102康芮颱風">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>102康芮颱風</name>
+  <Placemark>
+	<name>1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.560075911359,22.9177659027196,0 120.559777256989,22.9170769014116,0 120.560015328441,22.9146034136908,0 120.560396765515,22.9141153302995,0 120.561142739652,22.9141173930841,0 120.561340905773,22.9151641738859,0 120.561266209331,22.9163764639003,0 120.561014047842,22.9177357284763,0 120.560075911359,22.9177659027196,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.542118532838,22.9029163974499,0 120.542412139798,22.9019570204845,0 120.542745036085,22.9016507072686,0 120.543742816612,22.9010006223497,0 120.545446949997,22.9000068729376,0 120.547619433349,22.8988125151745,0 120.548916165092,22.8986986610262,0 120.549929365045,22.8993282704616,0 120.548724341256,22.8999393966849,0 120.547269895581,22.900703438318,0 120.545648863107,22.9016590364694,0 120.543404780818,22.9028432804207,0 120.542118532838,22.9029163974499,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.520699318079,22.8709742720431,0 120.519376223947,22.8705558650067,0 120.518639971027,22.8697264331089,0 120.518402111425,22.8689082225073,0 120.518165961549,22.8676069552218,0 120.518887907023,22.8676834576057,0 120.51940767175,22.8682052495693,0 120.51964579434,22.8689491421266,0 120.520608876268,22.8689148877947,0 120.521251366917,22.8687681890534,0 120.521855551551,22.8681011500721,0 120.522132773036,22.8691424251713,0 120.522812137298,22.8699247960329,0 120.523933129313,22.870634168821,0 120.523329850929,22.8710411062781,0 120.52216600642,22.8711119319613,0 120.520699318079,22.8709742720431,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.542026425702,22.8991150144609,0 120.542119967938,22.8967385702114,0 120.542124687464,22.8953323607608,0 120.542774047481,22.8956575159905,0 120.542692926515,22.8981068307519,0 120.542668747476,22.8989386096335,0 120.542026425702,22.8991150144609,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.361751509903,22.8756267924716,0 120.362765940844,22.8751351604274,0 120.364499970988,22.8751922907862,0 120.365852533721,22.8756995890019,0 120.3667175712,22.8761547430458,0 120.367147889798,22.8768591130067,0 120.366656161787,22.8777103854854,0 120.365787385073,22.878058249702,0 120.364703206808,22.8781041146222,0 120.363457616025,22.8778983726046,0 120.362701910625,22.8772428778229,0 120.36194620515,22.8765873795324,0 120.361751509903,22.8756267924716,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.384981944165,22.8770374848385,0 120.385224653782,22.8763286327438,0 120.385945999892,22.8757103507225,0 120.386857548034,22.8754033330661,0 120.387959516789,22.8753632165187,0 120.388867683486,22.875810330011,0 120.389487648817,22.8764337800738,0 120.389244167299,22.8773200838008,0 120.388522827055,22.8779383807967,0 120.387082332187,22.8786869909755,0 120.385596906528,22.8787699808444,0 120.384783535787,22.8785450278332,0 120.384643021535,22.8778346938701,0 120.384981944165,22.8770374848385,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#102康芮颱風">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.309186716176,22.8140209063992,0 120.30975786871,22.8144787289506,0 120.309713850725,22.8150856683365,0 120.30737177564,22.8165174409546,0 120.305935430875,22.8170424318554,0 120.304091000553,22.8172620610477,0 120.303188876785,22.817447845654,0 120.303158724728,22.8194397598758,0 120.302633590689,22.8203478025233,0 120.300848055005,22.8186139077308,0 120.298092315115,22.8208026349427,0 120.296938929799,22.8220497544394,0 120.296396075862,22.8240584706226,0 120.295496226847,22.8243172191592,0 120.295608393154,22.8258763755654,0 120.296000082456,22.8266961820827,0 120.295187419941,22.8280753540545,0 120.293106248502,22.8265103666098,0 120.293109579567,22.8258653075806,0 120.292868495906,22.8249535453632,0 120.292381638373,22.824040691346,0 120.293953910187,22.8210120251134,0 120.2956006161,22.8194256008617,0 120.297784265167,22.8169687762942,0 120.299879708604,22.8157257917285,0 120.301722962769,22.8157338787081,0 120.301971823236,22.8151278396258,0 120.303324697645,22.8149060848591,0 120.304637565397,22.814494417193,0 120.307631546313,22.813748538552,0 120.309186716176,22.8140209063992,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

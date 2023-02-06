@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1010610豪雨" id="1010610豪雨">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1010610豪雨</name>
+  <Placemark>
+	<name>30</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1010610豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.553257970356,22.8835787052382,0 120.553203170692,22.8838535718076,0 120.553024213988,22.8840332447935,0 120.552147173353,22.8844812122394,0 120.550295783236,22.8853618372222,0 120.549371958952,22.885239107338,0 120.548886218805,22.8850275322311,0 120.548919332659,22.8848174195125,0 120.549033585452,22.8845925260218,0 120.549441625463,22.8837828958219,0 120.549785099355,22.882882998162,0 120.550138621595,22.882567880117,0 120.55075742192,22.8824264733802,0 120.55156100036,22.88251463896,0 120.552270958373,22.8828601929424,0 120.553257970356,22.8835787052382,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1010610豪雨">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>120.46997097058,22.8444722189427,0 120.469383712275,22.8441045763456,0 120.468550873056,22.8432419483967,0 120.467681628421,22.842097635223,0 120.46641458489,22.8407060169034,0 120.465104912424,22.8395538084458,0 120.46521060779,22.8385485882152,0 120.465822581677,22.838204979026,0 120.466603069254,22.8381447489252,0 120.467109480398,22.8387749245253,0 120.46845911878,22.8406648757761,0 120.468998113947,22.8416408173809,0 120.46964000092,22.8423342919673,0 120.47051840579,22.8432799355517,0 120.470686795073,22.8435947354692,0 120.46997097058,22.8444722189427,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
