@@ -5,8 +5,11 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 L.control.scale().addTo(map);
+
+
+
 /*
-// Load kml file
+// Load kml file 高雄市行政區
 fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -22,7 +25,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
     map.fitBounds(bounds);
 });
 */
-// Load kml file
+// Load kml file 主要事件
 fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -37,7 +40,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file
+// Load kml file 相似事件1
 fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -54,7 +57,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file
+// Load kml file 相似事件2
 fetch('leaflet-kml-master/assets/Kaohsiung/105meiji.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -70,7 +73,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/105meiji.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file
+// Load kml file 相似事件3
 fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -84,4 +87,19 @@ fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     // Adjust map to show the kml
     const bounds = track.getBounds();
     map.fitBounds(bounds);
+});
+
+$(document).ready(function () {
+    $("#inser").click(function () {
+        showInsertPage();
+    });
+    $("#update").click(function () {
+        showUpdateList();
+    });
+    $("#delete").click(function () {
+        showDeleteList();
+    });
+    $("#select").click(function () {
+        doSelect();
+    });
 });
