@@ -7,9 +7,8 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.control.scale().addTo(map);
 
 
-
 /*
-// Load kml file ∞™∂Ø•´¶Ê¨F∞œ
+// Load kml file È´òÈõÑÂ∏ÇË°åÊîøÂçÄ
 fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -17,7 +16,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'gray'});//ßÔ√C¶‚
+    track.setStyle({color: 'gray'});//ÊîπÈ°èËâ≤
     map.addLayer(track);
 
     // Adjust map to show the kml
@@ -25,7 +24,8 @@ fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
     map.fitBounds(bounds);
 });
 */
-// Load kml file •D≠n®∆•Û
+
+// Load kml file ‰∏ªË¶Å‰∫ã‰ª∂
 fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -40,7 +40,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file ¨€¶¸®∆•Û1
+// Load kml file Áõ∏‰ºº‰∫ã‰ª∂1
 fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -48,8 +48,8 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'green'});//ßÔ√C¶‚
-    //track.setStyle({opacity: 0.5});//ßÔ≥z©˙´◊
+    track.setStyle({color: 'green'});//ÊîπÈ°èËâ≤
+    //track.setStyle({opacity: 0.5});//ÊîπÈÄèÊòéÂ∫¶
     map.addLayer(track);
 
     // Adjust map to show the kml
@@ -57,7 +57,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file ¨€¶¸®∆•Û2
+// Load kml file Áõ∏‰ºº‰∫ã‰ª∂2
 fetch('leaflet-kml-master/assets/Kaohsiung/105meiji.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -65,7 +65,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/105meiji.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'blue'});//ßÔ√C¶‚
+    track.setStyle({color: 'blue'});//ÊîπÈ°èËâ≤
     map.addLayer(track);
 
     // Adjust map to show the kml
@@ -73,7 +73,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/105meiji.kml')
     map.fitBounds(bounds);
 });
 
-// Load kml file ¨€¶¸®∆•Û3
+// Load kml file Áõ∏‰ºº‰∫ã‰ª∂3
 fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     .then(res => res.text())
     .then(kmltext => {
@@ -81,14 +81,14 @@ fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'yellow'});//ßÔ√C¶‚
+    track.setStyle({color: 'yellow'});//ÊîπÈ°èËâ≤
     map.addLayer(track);
 
     // Adjust map to show the kml
     const bounds = track.getBounds();
     map.fitBounds(bounds);
 });
-
+/*
 $(document).ready(function () {
     $("#inser").click(function () {
         showInsertPage();
@@ -103,3 +103,4 @@ $(document).ready(function () {
         doSelect();
     });
 });
+*/
