@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {//這行超重要，不然會出錯
+document.addEventListener("DOMContentLoaded", function () {//這行超重要，不然appendChild會出錯
 //取得HTML的select元素
 const select = document.getElementById("kmlFileSelect");
 //用fetch API取得JSON檔案
@@ -13,6 +13,7 @@ fetch('Kaohsiung.json')
       const option = document.createElement("option");
       option.value = item.kml;
       option.text = item.name;
+      option.id = item.no;
       select.appendChild(option);
     });
   })

@@ -26,19 +26,31 @@ fetch('leaflet-kml-master/assets/Kaohsiung/Kaohsiung.kml')
 */
 
 // Load kml file 主要事件
-fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
-    .then(res => res.text())
-    .then(kmltext => {
-    // Create new kml overlay
-    const parser = new DOMParser();
-    const kml = parser.parseFromString(kmltext, 'text/xml');
-    const track = new L.KML(kml);
-    map.addLayer(track);
+const select = document.getElementById("kmlFileSelect");
 
-    // Adjust map to show the kml
-    const bounds = track.getBounds();
-    map.fitBounds(bounds);
-});
+addEventListener("change", function() {
+    //清空地圖上的KML
+    map.eachLayer(function(layer) {
+        if (layer instanceof L.KML) {
+        map.removeLayer(layer);
+        }
+    });
+
+//fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
+    fetch('leaflet-kml-master/assets/Kaohsiung/'+select.value)
+        .then(res => res.text())
+        .then(kmltext => {
+        // Create new kml overlay
+        const parser = new DOMParser();
+        const kml = parser.parseFromString(kmltext, 'text/xml');
+        const track = new L.KML(kml);
+        map.addLayer(track);
+
+        // Adjust map to show the kml
+        const bounds = track.getBounds();
+        map.fitBounds(bounds);
+    });
+
 
 // Load kml file 相似事件1
 fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
@@ -81,12 +93,13 @@ fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'yellow'});//改顏色
+    track.setStyle({color: 'orange'});//改顏色
     map.addLayer(track);
 
     // Adjust map to show the kml
     const bounds = track.getBounds();
     map.fitBounds(bounds);
+});
 });
 /*
 $(document).ready(function () {
