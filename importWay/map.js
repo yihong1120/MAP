@@ -61,12 +61,14 @@ addEventListener("change", function() {
             //初始化compareTOP3
             compareTOP3 = [];
             compareTOP3 = window.compare.arrcase;
-            console.log("map-top3:"+compareTOP3);
+            // console.log("map-top3:"+compareTOP3);
             
             kmlFile1 = json[compareTOP3[0]-1].kml;
             kmlFile2 = json[compareTOP3[1]-1].kml;
             kmlFile3 = json[compareTOP3[2]-1].kml;
-            console.log("kmlFile1:"+kmlFile1);
+            // console.log("kmlFile1:"+kmlFile1);
+            // console.log("kmlFile2:"+kmlFile2);
+            // console.log("kmlFile3:"+kmlFile3);
 
             // Load kml file 相似事件1
             fetch('leaflet-kml-master/assets/Kaohsiung/'+kmlFile1)
