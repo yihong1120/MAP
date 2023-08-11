@@ -6,41 +6,41 @@
     })
         .then(function(obj){
         console.log(obj);
-        //¨ú±o¿ï¶µªº ID
+        //å–å¾—é¸é …çš„ ID
         const id = select.options[select.selectedIndex].id
         console.log(id);
         let num = id-1;
         console.log("num:"+num);
-        // ¨ú±oªí®æ¤¸¯À
+        // å–å¾—è¡¨æ ¼å…ƒç´ 
         const table = document.querySelector(".table");
-        // ¨ú±oÄæ¤¸¯À
+        // å–å¾—æ¬„å…ƒç´ 
         const cell11 = table.rows[1].cells[1];
         const cell12 = table.rows[1].cells[2];
         const cell13 = table.rows[1].cells[3];
         const cell14 = table.rows[1].cells[4];
-        // §ó§ïÄæªº¤å¦r
+        // æ›´æ”¹æ¬„çš„æ–‡å­—
         cell11.textContent =obj[num].name;
         cell12.textContent =obj[num].hr24;
         cell13.textContent =obj[num].AREA;
         cell14.textContent =obj[num].depth;
 
-        //§ä¥X¤T­Ó24hr³Ì±µªñªº¨Æ¥ó
+        //æ‰¾å‡ºä¸‰å€‹24hræœ€æ¥è¿‘çš„äº‹ä»¶
         let arr = [];
         for(let i=0;i<obj.length;i++){
-            arr.push(Math.abs(obj[i].hr24-obj[num].hr24));//µ´¹ï­È
+            arr.push(Math.abs(obj[i].hr24-obj[num].hr24));//çµ•å°å€¼
             
         }
         console.log("arr:"+arr);
-        //¦barr§ä¥X»Pobj[num].hr24®t­È³Ì¤pªº¤T­Ó
+        //åœ¨arræ‰¾å‡ºèˆ‡obj[num].hr24å·®å€¼æœ€å°çš„ä¸‰å€‹
         let arr2 = [];
         let arrcase = [];
         for(let i=0;i<4;i++){
-            let min = Math.min(...arr);//§ä¥Xarr¤¤³Ì¤pªº¼Æ¦r
+            let min = Math.min(...arr);//æ‰¾å‡ºarrä¸­æœ€å°çš„æ•¸å­—
             arr2.push(min);
             arr.splice(arr.indexOf(min),1);
         }
         console.log("arr2:"+arr2);
-        //©Ò¦³arr2¬Û¹ïÀ³ªºobj[num].hr24ªºindex
+        //æ‰€æœ‰arr2ç›¸å°æ‡‰çš„obj[num].hr24çš„index
         for(let i=1;i<4;i++){
             for(let j=0;j<obj.length;j++){
                 if(Math.abs(obj[j].hr24-obj[num].hr24) == arr2[i]){
@@ -53,25 +53,5 @@
             }
         }
         console.log("arrcase:"+arrcase);
-
-/*
-    // ¹M¾úªí®æ¤¤ªº¨C­ÓÄæ
-    for (let i = 1; i < table.rows[0].cells.length; i++) {
-        // ¨ú±oÄæ¤¸¯À
-        const cell = table.rows[1].cells[i];
-
-        // §ó§ïÄæªº¤å¦r
-        cell.textContent = "This is column " + obj[i].name;
-    }
-    */
-/*
-        //±NJSONÀÉ®×¤¤ªº¸ê®Æ³v¤@¥[¤Jselect¤¸¯À¤¤
-        obj.forEach(function(item) {
-        const option = document.createElement("option");
-        option.value = item.kml;
-        option.text = item.name;
-        select.appendChild(option);
-        });
-*/
     });
 });

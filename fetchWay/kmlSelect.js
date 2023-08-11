@@ -16,12 +16,7 @@ fetch('Kaohsiung.json')
       option.id = item.no;
       select.appendChild(option);
     });
-  })
-/*
-  .catch(function(error){
-  console.error('error');
-  console.error(error);
-  })*/;
+  });
 });
 
 //https://www.youtube.com/watch?v=5VCY9yCZnlc&ab_channel=dcode

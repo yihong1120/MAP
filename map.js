@@ -51,7 +51,6 @@ addEventListener("change", function() {
         map.fitBounds(bounds);
     });
 
-
 // Load kml file 相似事件1
 fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     .then(res => res.text())
@@ -101,19 +100,3 @@ fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     map.fitBounds(bounds);
 });
 });
-/*
-$(document).ready(function () {
-    $("#inser").click(function () {
-        showInsertPage();
-    });
-    $("#update").click(function () {
-        showUpdateList();
-    });
-    $("#delete").click(function () {
-        showDeleteList();
-    });
-    $("#select").click(function () {
-        doSelect();
-    });
-});
-*/
