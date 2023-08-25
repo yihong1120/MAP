@@ -22,12 +22,36 @@
 </head>
 <body>
     
-    <div class="container">
+    <div class="container" style="margin-left: auto;margin-right: auto;">
         <div class="row">
-            <div class="col-md-8 col-sm-12 mobile" style="height:95vh;"><!--flex: auto;-->
+            <div class="col-md-8 col-sm-12 mobile" style="height:95vh;padding-top: 12px;"><!--flex: auto;-->
                 <div id="map"></div>
             </div>
             <div class="col-md-4 col-sm-12">
+                <div class="row" style="margin-bottom: 12px;margin-top: 12px;">
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>Choose Region</option>
+                        <option value="63000">臺北市</option>
+                        <option value="64000">高雄市</option>
+                        <option value="65000">新北市</option>
+                        <option value="66000">臺中市</option>
+                        <option value="67000">臺南市</option>
+                        <option value="68000">桃園市</option>
+                        <option value="10002">宜蘭縣</option>
+                        <option value="10004">新竹縣</option>
+                        <option value="10007">彰化縣</option>
+                        <option value="10008">南投縣</option>
+                        <option value="10009">雲林縣</option>
+                        <option value="10010">嘉義縣</option>
+                        <option value="10013">屏東縣</option>
+                        <option value="10014">臺東縣</option>
+                        <option value="10015">花蓮縣</option>
+                        <option value="10017">基隆市</option>
+                        <option value="10018">新竹市</option>
+                        <option value="10020">嘉義市</option>
+                        <option value="09020">金門縣</option>
+                    </select>
+                </div>
                 <div class="row">
                     <select class="form-select" aria-label="Default select example" id="kmlFileSelect">
                         <option selected>Choose Case</option>
@@ -38,22 +62,22 @@
                     <table class="table">
                         <thead>
                             <tr>
-                                <th scope="col">#</th>
+                                <th scope="col"></th>
                                 <th scope="col">Case</th>
-                                <th scope="col">Precipitation (mm)</th>
-                                <th scope="col">Inundation Area (ha)</th>
-                                <th scope="col">Inundation Depth (m)</th>
+                                <th scope="col" style="font-size: 12px;">Rainfall<br>(mm)</th><!--Precipitation(mm)-->
+                                <th scope="col" style="font-size: 12px;">Area<br>(ha)</th><!--Inundation Area(ha)-->
+                                <th scope="col" style="font-size: 12px;">Depth<br>(m)</th><!--Inundation Depth(m)-->
                             </tr>
                         </thead>
                         <tbody>
                             <tr style="color: red;">
-                                <th scope="row">main</th>
+                                <th scope="row">#</th>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr style="color: green;">
+                            <tr style="color: green;width: auto">
                                 <th scope="row">1</th>
                                 <td></td>
                                 <td></td>
