@@ -10,7 +10,7 @@ addEventListener("change", function(event) {
     // 取得表格元素
     const table = document.querySelector(".table");
     //初始化表格    
-    for(let i=0;i<5;i++){
+    for(let i=1;i<5;i++){
         table.rows[i].cells[1].textContent = "";
         table.rows[i].cells[2].textContent = "";
         table.rows[i].cells[3].textContent = "";
