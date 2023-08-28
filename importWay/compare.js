@@ -5,19 +5,19 @@ let arrcase = [];
 window.compare = window.compare || {};
 const selectcase = document.getElementById("kmlFileSelect");//取得HTML的select元素
 addEventListener("change", function(event) {
+    const id = selectcase.options[select.selectedIndex].id//取得選項的 ID
+    //let num = id-1; // 選項的 ID-1是為了後續迴圈的索引值
+    // 取得表格元素
+    const table = document.querySelector(".table");
+    //初始化表格    
+    for(let i=0;i<5;i++){
+        table.rows[i].cells[1].textContent = "";
+        table.rows[i].cells[2].textContent = "";
+        table.rows[i].cells[3].textContent = "";
+        table.rows[i].cells[4].textContent = "";
+    }
+    // 取得並更改欄元素
     if (event.target === selectcase) {
-        const id = selectcase.options[select.selectedIndex].id//取得選項的 ID
-        //let num = id-1; // 選項的 ID-1是為了後續迴圈的索引值
-        // 取得表格元素
-        const table = document.querySelector(".table");
-        //初始化表格    
-        for(let i=0;i<5;i++){
-            table.rows[i].cells[1].textContent = "";
-            table.rows[i].cells[2].textContent = "";
-            table.rows[i].cells[3].textContent = "";
-            table.rows[i].cells[4].textContent = "";
-        }
-        // 取得並更改欄元素
         table.rows[1].cells[1].textContent = json[id-1].name; // main事件的名稱
         table.rows[1].cells[2].textContent = json[id-1].hr24; // main事件的24hr(mm)
         table.rows[1].cells[3].textContent = json[id-1].AREA; // main事件的AREA
