@@ -17,7 +17,7 @@ const myChart = new Chart(document.getElementById("myChart"), {
             label: '',
             data: [],
             borderWidth: 1,
-            backgroundColor: 'rgba(0,100,0,0.8)'//深綠色
+            backgroundColor: 'rgb(255,140,0,0.8)'//橘色
             },
             {
             label: '',
@@ -29,7 +29,7 @@ const myChart = new Chart(document.getElementById("myChart"), {
             label: '',
             data: [],
             borderWidth: 1,
-            backgroundColor: 'rgb(255,140,0,0.8)'//橘色
+            backgroundColor: 'rgba(0,100,0,0.8)'//深綠色
             }
         ]
     },

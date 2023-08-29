@@ -25,14 +25,16 @@
 </head>
 <body>
     <div class="container" style="margin-left: auto;margin-right: auto;">
-        <nav class="navbar navbar-light " style="background-color: #e3f2fd; padding: 0;">
-            <div class="container-fluid">
-                <a class="navbar-brand fw-bold d-flex align-items-center" height="40"> <!--"d-flex align-items-center"讓文字垂直置中-->
-                    <img src="water_damage_black_24dp.svg" alt="" width="40" height="40">
-                    即時淹水比對與歷史調查系統
-                </a>
-            </div>
-        </nav>
+        <div class="row">
+            <nav class="navbar navbar-light " style="background-color: #e3f2fd;">
+                <div class="container-fluid" style="padding-right: 0px;">
+                    <a class="navbar-brand fw-bold d-flex align-items-center" height="40"> <!--"d-flex align-items-center"讓文字垂直置中-->
+                        <img src="water_damage_black_24dp.svg" alt="" width="40" height="40">
+                        即時淹水比對與歷史調查系統
+                    </a>
+                </div>
+            </nav>
+        </div>
         <div class="row">
             <div class="col-md-8 col-sm-12 mobile" style="height:90vh;padding-top: 12px;"><!--flex: auto;-->
                 <div id="map"></div>
@@ -67,8 +69,8 @@
                         <option selected>Choose Case</option>
                     </select>
                 </div>
-                <div class="row">
-                    <canvas id="myChart" style="height: 300px;padding-right: 0px;padding-left: 0px;"></canvas>
+                <div class="row" style="padding-top: 12px;padding-bottom: 1px;">
+                    <canvas id="myChart" style="height: 300px;padding-right: 5px;padding-left: 0px; background-color: #e3f2fd;"></canvas>
                 </div>
                 <div class="row">
 
@@ -83,28 +85,28 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr style="color: red;">
+                            <tr class="table-danger" style="color: red;">
                                 <th scope="row">#</th>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr style="color: green;width: auto">
+                            <tr class="table-warning" style="color:rgb(255,140,0);">
                                 <th scope="row">1</th>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr style="color: blue;">
+                            <tr class="table-primary" style="color: blue;">
                                 <th scope="row">2</th>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr style="color:rgb(255,140,0);">
+                            <tr class="table-success" style="color: green;width: auto">
                                 <th scope="row">3</th>
                                 <td></td>
                                 <td></td>

@@ -59,7 +59,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/1070823.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'green'});//改顏色
+    track.setStyle({color: 'orange'});//改顏色
     //track.setStyle({opacity: 0.5});//改透明度
     map.addLayer(track);
 
@@ -92,7 +92,7 @@ fetch('leaflet-kml-master/assets/Kaohsiung/99.kml')
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmltext, 'text/xml');
     const track = new L.KML(kml);
-    track.setStyle({color: 'orange'});//改顏色
+    track.setStyle({color: 'green'});//改顏色
     map.addLayer(track);
 
     // Adjust map to show the kml
