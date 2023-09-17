@@ -1,4 +1,4 @@
-var map = L.map('map').setView([23.6, 121.041976], 8);
+var map = L.map('map').setView([23.6, 121.041976], 7); //經緯度, zoom
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     //maxZoom: 8,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
