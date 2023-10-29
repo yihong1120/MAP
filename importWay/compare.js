@@ -5,6 +5,8 @@ let arrcase = [];
 window.compare = window.compare || {};
 const selectcase = document.getElementById("kmlFileSelect");//取得HTML的select元素
 addEventListener("change", function(event) {
+    const targetId = event.target.id;
+    if (targetId === "Region" || targetId === "kmlFileSelect") {
     const id = selectcase.options[select.selectedIndex].id//取得選項的 ID
     //let num = id-1; // 選項的 ID-1是為了後續迴圈的索引值
     // 取得表格元素
@@ -61,6 +63,7 @@ addEventListener("change", function(event) {
         // console.log("arrcase:"+arrcase);
         var event = new Event('dataUpdated'); // 建立事件
         document.dispatchEvent(event); // 觸發事件
+    }
     }
 });
 export let compareTOP3 = arrcase;

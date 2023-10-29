@@ -62,6 +62,8 @@ const myChart = new Chart(document.getElementById("myChart"), {
 });
 let selectcaseARR = [];
 addEventListener("change", function(event) {
+    const targetId = event.target.id;
+    if (targetId === "Region" || targetId === "kmlFileSelect") {
     const id = selectcase.options[select.selectedIndex].id//取得選項的 ID
     
     //初始化chart開始
@@ -162,5 +164,6 @@ addEventListener("change", function(event) {
             }
         });
         */
+    }
     }
 });
