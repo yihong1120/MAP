@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1040808" id="1040808">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1040808</name>
+  <Placemark>
+	<name>台北市辛亥路3段284巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.551740454459,25.0149173586141,0 121.551653116479,25.0147867348689,0 121.551627885457,25.0147363222178,0 121.551690039989,25.0146024882744,0 121.551570503714,25.0144814246144,0 121.551548249726,25.0144677819083,0 121.551606029184,25.0144542806995,0 121.551681635524,25.0145392448442,0 121.551777479351,25.0144559607645,0 121.551789971235,25.0144643935399,0 121.551733401389,25.0145599989997,0 121.551712282403,25.0146175827222,0 121.551659069284,25.0147404567664,0 121.551702622752,25.014820244051,0 121.551758996493,25.0148907666619,0 121.551766143109,25.0148988107065,0 121.551740454459,25.0149173586141,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>土城環河路</name>
+	<description>淹水深度:0.2~0.5公尺</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.438877427625,24.9826471083366,0 121.438549614899,24.9814053608552,0 121.438073444464,24.9799287161342,0 121.438257750183,24.9798448014541,0 121.43844172592,24.9802660238522,0 121.438854225373,24.9812780446926,0 121.439568539921,24.9834462477855,0 121.439153706573,24.9835779319755,0 121.438877427625,24.9826471083366,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>三峽</name>
+	<description>淹水深度:0.2~0.5公尺</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.371185195712,24.9337139273487,0 121.371135951481,24.9337704342784,0 121.37095055369,24.9337003877339,0 121.370701527875,24.933586393082,0 121.370657822672,24.9337441248877,0 121.370488989159,24.9338697264132,0 121.370201032081,24.9337688561897,0 121.370482818215,24.9333739277607,0 121.370094915691,24.9330172938031,0 121.369769478498,24.9328523670011,0 121.369599843568,24.9325903134735,0 121.369664744112,24.9325261064755,0 121.369918502421,24.9326637995408,0 121.370039229833,24.9327581731641,0 121.37028701802,24.9331015671459,0 121.370566119494,24.9333267801055,0 121.370758923583,24.9335178680805,0 121.371185195712,24.9337139273487,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>廣興里</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.5415579004,24.9180126679921,0 121.541346708867,24.9173427748636,0 121.540001444458,24.9158242719185,0 121.539399882466,24.9146883969088,0 121.538134309881,24.9142158510661,0 121.537967116115,24.9129932859344,0 121.538727061572,24.9127317518812,0 121.539371125409,24.9130668188625,0 121.540168523237,24.9120073651954,0 121.540333324557,24.9118341603182,0 121.540755085544,24.9122171132855,0 121.541344853166,24.9122025677736,0 121.542070832529,24.9129401385945,0 121.543038864892,24.9139099835407,0 121.543937905148,24.9157209560005,0 121.544564084286,24.9163709186094,0 121.544617889165,24.9170276378396,0 121.543608506981,24.9180222358152,0 121.541911362143,24.9186688860523,0 121.5415579004,24.9180126679921,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>烏來老街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.55085066057,24.8636074024037,0 121.551151349885,24.8628409570136,0 121.551463030333,24.8622926529901,0 121.551513146363,24.8623096698103,0 121.551538884579,24.8624880227939,0 121.551565680642,24.8627451289828,0 121.551561187082,24.8630029962569,0 121.551779384309,24.8633893869983,0 121.551962303335,24.8638462567812,0 121.552153034115,24.8640623106058,0 121.55190727672,24.8642169467395,0 121.551080203843,24.8645121721264,0 121.55085066057,24.8636074024037,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>新店復興路</name>
+	<description>淹水深度:0.3~0.5公尺</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.531537242481,24.9889151738688,0 121.531876568664,24.9895139230142,0 121.532257178462,24.9901097590705,0 121.532840470486,24.9909025982314,0 121.53318251303,24.9912515892255,0 121.533509043884,24.9912610262038,0 121.53359698637,24.9912977642622,0 121.53338097924,24.9915316804959,0 121.533055902085,24.9912310075539,0 121.532941102219,24.9911224353191,0 121.532579763908,24.9907185312559,0 121.53216298784,24.9901968054074,0 121.531778358401,24.9894991001828,0 121.531528960368,24.9890883617603,0 121.531450579449,24.9889401548688,0 121.531537242481,24.9889151738688,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>台北市明水路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.544665453022,25.0773585688835,0 121.548005971035,25.0772915774074,0 121.551110010265,25.0771638433859,0 121.551145268173,25.0772803955426,0 121.544643562667,25.0774932398076,0 121.544665453022,25.0773585688835,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>台北市洲美街5巷~55巷</name>
+	<description>淹水深度:0.3~0.5公尺</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.508838654361,25.0978685818554,0 121.508883071655,25.0979249223447,0 121.508238023246,25.0983385043696,0 121.507604956548,25.0986865505013,0 121.507548388358,25.0986386993514,0 121.507957029743,25.0984130420748,0 121.508524227686,25.0980781263732,0 121.508838654361,25.0978685818554,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>台北市景興路</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.544495421794,24.9935753459859,0 121.544386210637,24.9932708279603,0 121.54419078299,24.9927332477238,0 121.544055087151,24.9926777069549,0 121.54427752136,24.9925970232381,0 121.544427515283,24.9928913228465,0 121.544557456687,24.9932577350745,0 121.544696213333,24.9937065831187,0 121.54451528396,24.9937526644122,0 121.544495421794,24.9935753459859,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>台北市溪州街</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1040808">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.535143570931,25.0044606589407,0 121.535269137004,25.0042329569172,0 121.535439097827,25.0036691333252,0 121.535529202396,25.0037023677533,0 121.535577511821,25.0039473345139,0 121.535825559735,25.0039852835345,0 121.535785596498,25.0041003773097,0 121.535609024045,25.0040924690349,0 121.535616453606,25.0041805673835,0 121.535685130079,25.0045045808151,0 121.53581433797,25.0048430027918,0 121.535688998624,25.0048588303785,0 121.53559460409,25.0045279426533,0 121.535254137781,25.004486723837,0 121.535143570931,25.0044606589407,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

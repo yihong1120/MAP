@@ -1,5 +1,8 @@
-import data from '../Kaohsiung.json' assert { type: 'json' };
+import KaohsiungJson from '../Kaohsiung.json' assert { type: 'json' };
+import TaipeiJson from '../Taipei.json' assert { type: 'json' };
+let data = KaohsiungJson;
 let select;
+
 document.addEventListener("DOMContentLoaded", function () {//這行超重要，不然appendChild會出錯
   //製作第一層下拉式選單(Choose Region)(暫時只在HTML做)
   addEventListener("change", function(event) {
@@ -7,13 +10,28 @@ document.addEventListener("DOMContentLoaded", function () {//這行超重要，�
     //取得第一層 Region 的 value
     const selectedOption = selectregion.options[selectregion.selectedIndex];
     const selectedOptionValue = selectedOption.value;
-    console.log("selectedOptionValue: "+selectedOptionValue);
-    if (event.target === selectregion) {//如果選擇的是第一層下拉式選單
-      
-      if (selectedOptionValue === '64000'){ //(暫時只用高雄測試使用)
-        //取得HTML的select元素
-        select = document.getElementById("kmlFileSelect");
+    // console.log("selectedOptionValue: "+selectedOptionValue);
+    switch (selectedOptionValue) {
+      case "630006500":
+        data = TaipeiJson;
+        // console.log("data是台北");
+          break;
+      case "64000":
+        data = KaohsiungJson;
+        // console.log("data是高雄");
+          break;
+      default:
+        data = null;
+          break;
+    };
 
+    if (event.target === selectregion) {//如果選擇的是第一層下拉式選單
+    
+    // console.log("data: "+data);
+      if (data){ //如果data有值
+        // 取得HTML的select元素
+        select = document.getElementById("kmlFileSelect");
+        select.innerHTML = "<option selected>Choose Case</option>";
         //將JSON檔案中的資料逐一加入select元素中
         data.forEach(function(item) {
           const option = document.createElement("option");
@@ -28,9 +46,10 @@ document.addEventListener("DOMContentLoaded", function () {//這行超重要，�
       }
 
     }
+    
   });
 });
-export let json = data;
+export let json = TaipeiJson; //(要解決data問題 關鍵在這裡)
 export let kmlFileSelect = select;
 
 // https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/

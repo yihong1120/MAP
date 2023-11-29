@@ -32,13 +32,33 @@ var baseMaps = {
     "OpenStreetMap": osm,
 };
 //初始化layerControl
-var layerControl = L.control.layers(baseMaps).addTo(map);
+var layerControl = L.control.layers(baseMaps).addTo(map);//https://leafletjs.com/examples/layers-control/
 var kmlLayers0;
 var kmlLayers1;
 var kmlLayers2;
 var kmlLayers3;
 addEventListener("change", function(event) {
     
+//取得第一層 Region 的 value
+const selectregion = document.getElementById("Region");
+const selectedOption = selectregion.options[selectregion.selectedIndex];
+const selectedOptionValue = selectedOption.value;
+console.log("selectedOptionValue from map: "+selectedOptionValue);
+let region;
+switch (selectedOptionValue) {
+    case "630006500":
+        region = "Taipei";
+      console.log("region是台北");
+        break;
+    case "64000":
+        region = "Kaohsiung";
+      console.log("region是高雄");
+        break;
+    default:
+        region = null;
+        break;
+};
+
     const targetId = event.target.id;
     if (targetId === "Region" || targetId === "kmlFileSelect") {
         //清空地圖上的KML
@@ -61,7 +81,7 @@ addEventListener("change", function(event) {
 
         if (event.target === select) {
             //fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
-            fetch('leaflet-kml-master/assets/Kaohsiung/'+select.value)
+            fetch('leaflet-kml-master/assets/'+region+'/'+select.value)
                 .then(res => res.text())
                 .then(kmltext => {
                     // Create new kml overlay
@@ -100,7 +120,7 @@ addEventListener("change", function(event) {
                     var kmlFile2Name = json[compareTOP3[1]-1].name;
                     var kmlFile3Name = json[compareTOP3[2]-1].name;
                     // Load kml file 相似事件1
-                    fetch('leaflet-kml-master/assets/Kaohsiung/'+kmlFile1)
+                    fetch('leaflet-kml-master/assets/'+region+'/'+kmlFile1)
                         .then(res => res.text())
                         .then(kmltext => {
                             // Create new kml overlay
@@ -121,7 +141,7 @@ addEventListener("change", function(event) {
                             map.fitBounds(bounds);
 
                     // Load kml file 相似事件2
-                    fetch('leaflet-kml-master/assets/Kaohsiung/'+kmlFile2)
+                    fetch('leaflet-kml-master/assets/'+region+'/'+kmlFile2)
                         .then(res => res.text())
                         .then(kmltext => {
                             // Create new kml overlay
@@ -141,7 +161,7 @@ addEventListener("change", function(event) {
                             map.fitBounds(bounds);
 
                         // Load kml file 相似事件3
-                        fetch('leaflet-kml-master/assets/Kaohsiung/'+kmlFile3)
+                        fetch('leaflet-kml-master/assets/'+region+'/'+kmlFile3)
                             .then(res => res.text())
                             .then(kmltext => {
                                 // Create new kml overlay

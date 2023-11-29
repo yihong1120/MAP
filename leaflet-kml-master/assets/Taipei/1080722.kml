@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1080722" id="1080722">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1080722</name>
+  <Placemark>
+	<name>復興南路一段107巷淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.543982399498,25.043700072254,0 121.546151635703,25.0436459958021,0 121.54614876181,25.0435247390963,0 121.543982779829,25.043581575866,0 121.543982399498,25.043700072254,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>四維路108號至和平東路三段巷口淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.548088520555,25.0276633203399,0 121.54801249584,25.0254966316119,0 121.547901438071,25.0255119004559,0 121.547854773104,25.024707399297,0 121.546667087507,25.0247662536975,0 121.546968945665,25.0277636499793,0 121.548088520555,25.0276633203399,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝大鵬堤便淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.534924999461,24.9936177603095,0 121.535040529902,24.9938004597051,0 121.535060451354,24.993971408194,0 121.535137068238,24.9940750477304,0 121.535165926046,24.994170077831,0 121.535090331618,24.9941963720685,0 121.534945323683,24.9939416228624,0 121.534951594389,24.9938090196641,0 121.534860236645,24.9936909090669,0 121.534924999461,24.9936177603095,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>國中路106號至福和路57巷口淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.524129593034,25.0063299433099,0 121.523183279078,25.0069140928363,0 121.523004034012,25.0069652722195,0 121.5229142076,25.0071321391422,0 121.523013902747,25.0071079282373,0 121.523066438852,25.0070425031677,0 121.523429339228,25.0068682087005,0 121.524178532167,25.0063970034727,0 121.524129593034,25.0063299433099,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>國光路12巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.520015153745,25.0084965582436,0 121.520028552331,25.0084061299676,0 121.519097162272,25.008285312653,0 121.518835566494,25.0082769440455,0 121.518580149894,25.0084089122896,0 121.518445617837,25.0086279060124,0 121.518389813798,25.0087289534024,0 121.518501821235,25.0087318362434,0 121.518580215631,25.00854048947,0 121.518723912992,25.0084272746929,0 121.518896519802,25.0083715095176,0 121.519173025125,25.0083955242348,0 121.520015153745,25.0084965582436,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>安康路一段308號安全島內部小段淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.517270895523,24.9639959917241,0 121.517203229882,24.964035222871,0 121.517173738594,24.9641415107976,0 121.517130945478,24.9642389150157,0 121.517062627518,24.9643285667953,0 121.517203254776,24.9642355716279,0 121.51725533352,24.9641098604254,0 121.517270895523,24.9639959917241,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>合江公園至民生東路三段口淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.539359726666,25.0579959345762,0 121.539372346635,25.0587724626786,0 121.539000286469,25.0587872990378,0 121.539034099551,25.0580336977674,0 121.539229659404,25.0580254443138,0 121.539359726666,25.0579959345762,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路四段27巷至216巷口淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.553176093157,25.0415807378463,0 121.553174515249,25.0412717365663,0 121.545137035013,25.0414156917827,0 121.545155588321,25.0417374252709,0 121.553176093157,25.0415807378463,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>仁愛路四段10號至30號附近淹水範圍</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1080722">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.545471752324,25.037750333884,0 121.546830355043,25.0377515787066,0 121.546776824485,25.0372032934749,0 121.546068719019,25.036813376791,0 121.544871261797,25.036833700619,0 121.544883069911,25.0372087066677,0 121.545471752324,25.037750333884,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

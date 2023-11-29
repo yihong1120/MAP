@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1070908" id="1070908">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>1070908</name>
+  <Placemark>
+	<name>1-1基隆安樂區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.724958729735,25.1418762334399,0 121.724691703516,25.1417790498943,0 121.724619668866,25.1414220404815,0 121.724898442802,25.1412919943689,0 121.725189300947,25.1413098130807,0 121.725301042032,25.1415153113937,0 121.725261389172,25.1417245285069,0 121.725126022263,25.1418292226844,0 121.724958729735,25.1418762334399,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-2基隆中正區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.746485939206,25.134866140941,0 121.746263077782,25.1346050381658,0 121.74644661397,25.1342489913523,0 121.746721914844,25.1340353637921,0 121.747180747554,25.1341065738448,0 121.747390500279,25.1343558068776,0 121.747482268556,25.1348186686517,0 121.747259405794,25.1350441660293,0 121.747102090388,25.135008561269,0 121.746970994255,25.1350085612114,0 121.74681367891,25.1349966927152,0 121.746485939206,25.134866140941,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-3基隆中山區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.726698581895,25.1475420087238,0 121.726437761005,25.1471838005897,0 121.726427112229,25.1469385819244,0 121.726708126008,25.1466082536327,0 121.727010233739,25.1465514308879,0 121.727187424376,25.1466173170561,0 121.727489726772,25.1467679923674,0 121.727552509949,25.1470508972429,0 121.727469484428,25.1473999373114,0 121.727094546217,25.1475699991048,0 121.726698581895,25.1475420087238,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1-4基隆仁愛區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.752101966691,25.1236982231831,0 121.752135664418,25.123586354947,0 121.752236757004,25.1235355058239,0 121.75225922201,25.123520251064,0 121.752399628291,25.1236016098168,0 121.752377163337,25.1237287328678,0 121.752236756844,25.1237744971444,0 121.752101966691,25.1236982231831,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2-1台北市士林區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.511312952775,25.0894434308534,0 121.511247430009,25.0889093594338,0 121.511548837143,25.0886838626605,0 121.511928871839,25.0886719935628,0 121.512217176208,25.0890161717633,0 121.511955084463,25.0894909031026,0 121.511588152106,25.0895739816474,0 121.511312952775,25.0894434308534,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2-2台北市大安區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.541525070646,25.0319340155296,0 121.541002649495,25.0318008623839,0 121.540608809577,25.031269100555,0 121.540398253087,25.0308204869615,0 121.540774369782,25.0303638676956,0 121.541654547356,25.0300653115669,0 121.542186035987,25.0303479710257,0 121.542561347109,25.0312036373001,0 121.542460318433,25.0315275062241,0 121.542166743621,25.0319260303082,0 121.541525070646,25.0319340155296,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2-3台北市中正區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.513445320459,25.0247825678904,0 121.513372626644,25.0242721035468,0 121.513935971551,25.0240580428685,0 121.514008661114,25.0240580433565,0 121.514335767745,25.0243544434127,0 121.514390285534,25.0244038431058,0 121.514335771872,25.0247167067183,0 121.513863289434,25.0248649035223,0 121.513699736622,25.0248649025396,0 121.513445320459,25.0247825678904,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2-4台北市松山區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.551863284106,25.0551926863297,0 121.551614365174,25.0548722429785,0 121.551614365392,25.0548129017148,0 121.551745376118,25.0545992735135,0 121.551771578201,25.0545636687988,0 121.5520598,25.0542788309516,0 121.552596940142,25.0544212489921,0 121.552649344209,25.0544449852941,0 121.552714849238,25.054468721516,0 121.552623144178,25.0548841108364,0 121.552623144289,25.0549078473447,0 121.552269417049,25.0552520276329,0 121.551863284106,25.0551926863297,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2-5台北市萬華區</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1070908">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.501169323222,25.0260563839674,0 121.501102806393,25.0257726847412,0 121.501098713685,25.0256856961284,0 121.501182327566,25.0255382629808,0 121.501324388612,25.0253757465841,0 121.501508029198,25.0253834507055,0 121.501616506105,25.0254289170789,0 121.501729093787,25.0255424620099,0 121.501795738155,25.0256900096844,0 121.501820605937,25.0258791273231,0 121.501461428494,25.0261246824688,0 121.501169323222,25.0260563839674,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1100603台北新北" id="1100603台北新北">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="path" type="string"></SimpleField>
+</Schema>
+<Folder><name>1100603台北新北</name>
+  <Placemark>
+	<name>華城路1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.530313164255,24.961016493566,0 121.530446015082,24.9609872808644,0 121.530865282048,24.9609568388741,0 121.530871948208,24.9610543211453,0 121.530717221285,24.9611218462197,0 121.530588548187,24.9611494536301,0 121.530332130443,24.961180922216,0 121.530313164255,24.961016493566,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>華城路2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.530496491353,24.9608861116127,0 121.530476086568,24.9607648119174,0 121.530459436138,24.9606872163949,0 121.530343349628,24.9606141573696,0 121.530290469494,24.9605835348609,0 121.530339139633,24.9605195195062,0 121.530502718358,24.9606163944737,0 121.530572554183,24.9606557672846,0 121.530582653949,24.9606653907665,0 121.530614746886,24.9606987443594,0 121.530646094372,24.9607426668796,0 121.530690538643,24.9609696036372,0 121.530441283515,24.9609888931222,0 121.530496491353,24.9608861116127,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>三峽區大義路189號_FS027</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.377492771314,24.9472270685342,0 121.377414115727,24.947187311485,0 121.377436717907,24.9471036986799,0 121.377312857962,24.9470659909257,0 121.377835420361,24.9460659114923,0 121.378137385484,24.9455216025522,0 121.378269382215,24.9454986497127,0 121.37853518385,24.9450231970758,0 121.378285655784,24.94487892143,0 121.378169028536,24.9451334530663,0 121.377832708099,24.9457318667577,0 121.377308337526,24.9467122752345,0 121.376885224718,24.9474041307005,0 121.37729387213,24.9475090563085,0 121.377362582757,24.9473647835744,0 121.377879720633,24.9475418455427,0 121.37794843126,24.9473942939201,0 121.377492771314,24.9472270685342,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>三峽區台北大學_FS067</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.373191544643,24.9450022648724,0 121.372981796414,24.9452998329088,0 121.372697913034,24.9456654389336,0 121.372974563716,24.9458523402491,0 121.373080341918,24.9459080826918,0 121.373362417123,24.9455654302185,0 121.373420278704,24.945586743558,0 121.37347633211,24.9455736276572,0 121.37355046726,24.9454572239763,0 121.373639067805,24.945349017639,0 121.373570357178,24.9453031118915,0 121.373773776797,24.9450088228534,0 121.373679751729,24.9449498010118,0 121.373551371347,24.9448784829155,0 121.37337959478,24.9449391442874,0 121.373287377886,24.9448915988903,0 121.373191544643,24.9450022648724,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>汐止區新北市汐止區福德一路392巷22弄26號</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.628022185384,25.061783989371,0 121.627910728577,25.0621027733618,0 121.627976960116,25.0621242643875,0 121.628086686994,25.0618041372602,0 121.628022185384,25.061783989371,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>板橋區中山路與漢生東路口___FS056</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">1100603梅雨事件含雲彩颱風 — 新北市</SimpleData>
+		<SimpleData name="path">C:/Users/dh100/Desktop/gis/93年～110年8月颱風豪雨淹水範圍.kml|layername=新北市|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.468330043021,25.0133882937076,0 121.46818538907,25.0135062716934,0 121.468444862095,25.0136578404671,0 121.468626583621,25.0134669457107,0 121.468688965638,25.0134415476735,0 121.468754964003,25.0134268004237,0 121.468829099153,25.0134808736644,0 121.469035231034,25.0135455976635,0 121.469103037573,25.0134022216701,0 121.468972849017,25.0133579799012,0 121.468850797246,25.0132793278283,0 121.468831811415,25.01323918248,0 121.468842660461,25.0131818319596,0 121.468910467001,25.0130851553075,0 121.468702526946,25.0129884785793,0 121.468606693703,25.013157253157,0 121.46848825828,25.0130925289532,0 121.468353549288,25.0133489676871,0 121.468330043021,25.0133882937076,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>永吉路1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.570878992556,25.0455595643235,0 121.570885758941,25.0457401921699,0 121.569191693688,25.0458140205706,0 121.569191137851,25.0455783202356,0 121.570878992556,25.0455595643235,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.570868415018,25.0457401922553,0 121.570892066885,25.0458123868887,0 121.571133576436,25.0460342859377,0 121.571266698836,25.0461270490244,0 121.571411299991,25.0462645080338,0 121.571907852542,25.0465170768153,0 121.571565016344,25.0466772864145,0 121.571048162793,25.0463212301024,0 121.57088756094,25.0462255426941,0 121.570328838816,25.0457641630898,0 121.570868415018,25.0457401922553,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568737202789,25.0439654363853,0 121.568844427003,25.0439577803794,0 121.570309193166,25.0439085351437,0 121.570339489955,25.0446916748482,0 121.569786958828,25.0446902516685,0 121.569612544891,25.0448222207277,0 121.569170142171,25.0445201087377,0 121.568742776383,25.0442361216876,0 121.568737202789,25.0439654363853,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568673344183,25.0417808897184,0 121.568739208857,25.0417756601096,0 121.568836000231,25.0439580829209,0 121.5687404429,25.043961803593,0 121.568673344183,25.0417808897184,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568763533228,25.0422965650688,0 121.568970517585,25.0422907161722,0 121.56896624297,25.0423680957795,0 121.568763337048,25.0423802481788,0 121.568763533228,25.0422965650688,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568689954849,25.0423767651785,0 121.567260710553,25.0424294591606,0 121.567263686237,25.0423392422193,0 121.568685382759,25.04230510532,0 121.568689954849,25.0423767651785,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568708692741,25.0427637516992,0 121.568225725489,25.0427637416132,0 121.568216131366,25.0426956645709,0 121.568698080865,25.0426879193769,0 121.568708692741,25.0427637516992,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.570176368765,25.0439115325703,0 121.570127374004,25.0417456483772,0 121.570279415559,25.04174208537,0 121.570319871649,25.0439061661496,0 121.570176368765,25.0439115325703,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>永吉路9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568615414688,25.0441579654733,0 121.569206298765,25.0445423282719,0 121.56962182955,25.0448222208897,0 121.570327938924,25.0452932681895,0 121.570684754495,25.0455602624723,0 121.570145345463,25.0455657350633,0 121.569433329382,25.045029841812,0 121.569037651885,25.0447425331474,0 121.568742828562,25.0445245367509,0 121.568468779223,25.0443333021716,0 121.568615414688,25.0441579654733,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.560895144755,25.0258257620987,0 121.56149165922,25.0262629650944,0 121.563198083907,25.0276125282494,0 121.563803812711,25.0280763497538,0 121.563611956842,25.0281238930575,0 121.560853537872,25.0259930933707,0 121.560774153164,25.0258740746909,0 121.560895144755,25.0258257620987,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.56380052211,25.0275651136402,0 121.564293553498,25.0270062440307,0 121.565152055232,25.0276340313695,0 121.563936231655,25.0279917769006,0 121.56380052211,25.0275651136402,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.563808569306,25.0280748766417,0 121.563644570212,25.0279528251667,0 121.563894042822,25.0278799574831,0 121.563940330856,25.0279961211022,0 121.563808569306,25.0280748766417,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.566706740143,25.0254559802958,0 121.567612123853,25.0258913097851,0 121.568614645145,25.0263655388155,0 121.568558465422,25.0264225377629,0 121.566662954668,25.0255135335328,0 121.566706740143,25.0254559802958,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.569448878586,25.0215128356338,0 121.569474980511,25.0214966382801,0 121.56983303288,25.0220652988645,0 121.569797298442,25.0220838647926,0 121.569448878586,25.0215128356338,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>吳興街6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.561161627387,25.0226968081916,0 121.561326032295,25.0225854930382,0 121.561462238624,25.022613280226,0 121.561608349345,25.0226475131569,0 121.56175033716,25.0227009416389,0 121.561837584387,25.0227281530243,0 121.561852614659,25.0227344808629,0 121.561865391201,25.0227323688416,0 121.561914937137,25.0227471898554,0 121.561871307843,25.0228162420999,0 121.561739386027,25.0227365989991,0 121.561438094072,25.0226556555616,0 121.56133049348,25.0226414423879,0 121.561212630791,25.0227281783882,0 121.561161627387,25.0226968081916,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.543979221988,25.0265194686006,0 121.544113169072,25.0265118371157,0 121.544173323885,25.0282065950614,0 121.544103653912,25.0282119925373,0 121.544038867883,25.0282173970756,0 121.543979221988,25.0265194686006,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.54416420773,25.0280412748039,0 121.544977718203,25.0280205722539,0 121.545004626307,25.0281906338453,0 121.544168716599,25.0282011795302,0 121.54416420773,25.0280412748039,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.557659566483,25.0203770007862,0 121.558515034523,25.0207932606837,0 121.559370358114,25.0211978121363,0 121.559308070211,25.0212658268349,0 121.558481121961,25.0208758741193,0 121.557593770774,25.0204434285658,0 121.557659566483,25.0203770007862,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.558343936905,25.0196966898017,0 121.558994627677,25.0200273857189,0 121.559495409065,25.0202773884455,0 121.559466006227,25.0203413741817,0 121.558289081382,25.0197503064102,0 121.558343936905,25.0196966898017,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.553697685193,25.0234135296585,0 121.553528961093,25.0232823097794,0 121.554163144193,25.0226953676127,0 121.554567641743,25.0223133808136,0 121.555006853455,25.021905203531,0 121.55537622927,25.0215694344588,0 121.55590684853,25.0210689040871,0 121.556535047855,25.020521805293,0 121.556698417792,25.0206057058881,0 121.553697685193,25.0234135296585,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.556295926344,25.0209893990063,0 121.556692723292,25.0206067222588,0 121.556732244747,25.0207301855881,0 121.556660443991,25.02081685427,0 121.556617227384,25.0209165029184,0 121.556603175072,25.020994501144,0 121.556571980243,25.0210434870995,0 121.556399017264,25.021040886842,0 121.556295926344,25.0209893990063,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>和平東路7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.556588685252,25.0210395732359,0 121.556516117665,25.0217658757043,0 121.556430947859,25.0217525140494,0 121.556520742046,25.0210395738512,0 121.556588685252,25.0210395732359,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>基隆路一段101巷32號</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568024037055,25.0441150384988,0 121.568161385137,25.0439294973117,0 121.568613544893,25.044159615994,0 121.568466414993,25.0443358593102,0 121.568024037055,25.0441150384988,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>基隆路一段101巷29號</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.568164248599,25.044454445707,0 121.568025224541,25.0443771033469,0 121.568123255323,25.044167801555,0 121.568287094679,25.0442465316538,0 121.568164248599,25.044454445707,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.549718014292,25.0413827203396,0 121.549574613717,25.0413806203037,0 121.549516796789,25.0396383903032,0 121.549694573439,25.0394862457524,0 121.549718014292,25.0413827203396,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.551844694822,25.0413132875791,0 121.551873110104,25.0415786365365,0 121.549188245647,25.041665579479,0 121.54923262953,25.0413881381776,0 121.551844694822,25.0413132875791,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.560751349042,25.0413754006477,0 121.560793964235,25.0416177909299,0 121.55790680201,25.0417055716256,0 121.557927862049,25.0414214666276,0 121.560751349042,25.0413754006477,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.561586745015,25.040776329924,0 121.562086563265,25.0407837487303,0 121.562070619055,25.0411596846174,0 121.561603829636,25.0411834966499,0 121.561586745015,25.040776329924,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.56080227847,25.0416337126858,0 121.560826806822,25.0416416882259,0 121.560826389504,25.0416098459105,0 121.560801915115,25.0416019052842,0 121.560777777036,25.0416257458976,0 121.56076143483,25.0416177884636,0 121.560785913854,25.0416257465148,0 121.56082618153,25.0415939770398,0 121.56077255279,25.0419429941686,0 121.560639517561,25.0419429838655,0 121.560338062627,25.0416416510996,0 121.56080227847,25.0416337126858,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.563649124633,25.0413143709836,0 121.563772785861,25.0445189454254,0 121.562801110308,25.0445532662576,0 121.562748236182,25.0413066872416,0 121.563649124633,25.0413143709836,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.57020194609,25.0401683058618,0 121.570281024845,25.041742155385,0 121.565064122106,25.0418271473247,0 121.564187352881,25.0402134732368,0 121.57020194609,25.0401683058618,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.570232951881,25.0408017938285,0 121.571947630148,25.0407433811582,0 121.571969357343,25.0410603955373,0 121.570254257105,25.0411137273741,0 121.570232951881,25.0408017938285,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.572487425092,25.042588707344,0 121.572725413472,25.0425705361075,0 121.572717892703,25.0426106348399,0 121.572704686628,25.0429311363933,0 121.572494348554,25.0429351067641,0 121.572487425092,25.042588707344,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>忠孝東路10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.57790233748,25.0400023984044,0 121.578447662369,25.0400174911701,0 121.578435339508,25.0400555117475,0 121.578397423404,25.0405065704743,0 121.578262243142,25.0407275855506,0 121.577750239863,25.0406614859392,0 121.57790233748,25.0400023984044,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>大安區基隆路三段109號_FS013</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.542553223496,25.0159595044379,0 121.544122718868,25.0172899995138,0 121.543981681265,25.0174210819922,0 121.544090171729,25.0175226708168,0 121.544278221866,25.0174079737507,0 121.54628529544,25.0189809527438,0 121.546480578274,25.0187908855193,0 121.544527749932,25.0171851334302,0 121.544838755927,25.0169557385602,0 121.544751963556,25.0168443180401,0 121.544426492166,25.0170474965596,0 121.543840643663,25.0164772850235,0 121.542791902516,25.0156907820075,0 121.542582154287,25.0159463960403,0 121.542553223496,25.0159595044379,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>大安區富陽街108巷</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.556695833524,25.0197501774534,0 121.556685948219,25.0197483859158,0 121.556649372593,25.0200323442915,0 121.556728455028,25.0200368231249,0 121.55675514535,25.0197501774534,0 121.556695833524,25.0197501774534,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>木柵路四段159巷168號-178號</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.577908939366,25.0033992070447,0 121.577980139636,25.0033899972041,0 121.578014736322,25.0034815240531,0 121.577999941745,25.0035877442583,0 121.577965867426,25.0036897033489,0 121.577946153007,25.0037867691304,0 121.577921646586,25.0038691117263,0 121.577878018069,25.0039797932579,0 121.577855878552,25.0040448681269,0 121.577827435893,25.0040903966647,0 121.577798697991,25.0041331693979,0 121.577770727629,25.0041584586717,0 121.577740710746,25.004184001996,0 121.577692801794,25.004207951722,0 121.577648177857,25.004230259287,0 121.577591319014,25.0042811666444,0 121.577573520632,25.0042964438528,0 121.577525488284,25.0043460009785,0 121.577508367318,25.0043973566336,0 121.577471673076,25.0044113067034,0 121.57744742471,25.0043894092535,0 121.57740870798,25.0043775199361,0 121.577438919442,25.00434404046,0 121.577481645475,25.004324488583,0 121.577566703039,25.0042170782108,0 121.57758374044,25.0042272051526,0 121.577643865271,25.0041382696049,0 121.577695454241,25.0040674100109,0 121.577777805957,25.0040548972436,0 121.577825487966,25.0039578951068,0 121.577881936729,25.0037849211915,0 121.577888549321,25.0037051739591,0 121.577929792864,25.0035147648385,0 121.577927316594,25.0034320051082,0 121.577912807267,25.0034032626444,0 121.577908939366,25.0033992070447,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>長安東路二段</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#1100603台北新北">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+		<SimpleData name="layer">mergr</SimpleData>
+		<SimpleData name="path">C:\Users\dh100\Desktop\gis\北市kml\mergr.kml|layername=mergr|geometrytype=Polygon25D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.542184734106,25.0482207342465,0 121.543395166918,25.0482041919328,0 121.543391710418,25.048348537219,0 121.542180828661,25.0483681985917,0 121.542184734106,25.0482207342465,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

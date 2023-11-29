@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="930825" id="930825">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>930825</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.438612754661,25.0292600234004,0 121.438831339016,25.0289596052697,0 121.438555888485,25.0287106073911,0 121.438115702177,25.0284620948099,0 121.437896230307,25.0285127037453,0 121.437677821662,25.0288630821743,0 121.437788533029,25.0291125670332,0 121.438283278762,25.0292609953594,0 121.438612754661,25.0292600234004,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.421592069299,25.011840773162,0 121.426286440714,25.0020598271254,0 121.423662769882,24.999572279176,0 121.42181137542,25.0008826408075,0 121.41779568393,24.9983221576321,0 121.416450774416,24.999746185798,0 121.41607362396,25.0004765623174,0 121.416032867301,25.0008989148361,0 121.415613144515,25.0015142532373,0 121.415404572217,25.0022057714964,0 121.415278846323,25.0035289311619,0 121.415876213328,25.0055616829587,0 121.416299053306,25.0058675823479,0 121.416764335279,25.0062501321175,0 121.417022215261,25.0076696648691,0 121.418038072741,25.0087032152676,0 121.418546202865,25.0092775650201,0 121.418928312941,25.0100058091255,0 121.41943736531,25.0108488499216,0 121.42015603154,25.0113074440871,0 121.421592069299,25.011840773162,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.448748227372,25.0353310225856,0 121.44956898551,25.0341943368264,0 121.449637766868,25.0335468801387,0 121.451203569687,25.0337363088193,0 121.45202287349,25.0340574431842,0 121.453946653646,25.034860639377,0 121.45436980587,25.0338561113061,0 121.453835654906,25.0336959314539,0 121.451698354834,25.0328610202093,0 121.449876206738,25.0316266730563,0 121.448590871282,25.0303036981202,0 121.446019307027,25.0279125034353,0 121.445162622771,25.0270736475291,0 121.44416274562,25.0259763145968,0 121.442626582798,25.0241038728592,0 121.441339089443,25.0221335885737,0 121.440519930317,25.0222320331534,0 121.441023687131,25.0337683887158,0 121.448748227372,25.0353310225856,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.430768950498,25.0274965806111,0 121.432629601559,25.0282420918762,0 121.434479294963,25.0282690588138,0 121.435155673674,25.0284288925366,0 121.43780282693,25.0281941342728,0 121.43678313556,25.0259645691736,0 121.435387070737,25.0234443894238,0 121.432901776382,25.0247137861129,0 121.432155305551,25.024845408265,0 121.432049621784,25.0251369781357,0 121.430768950498,25.0274965806111,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.426549121363,25.0219517442691,0 121.427976292433,25.0232421439218,0 121.429111861738,25.0224945319337,0 121.427294012879,25.0213670792535,0 121.426549121363,25.0219517442691,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#930825">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>121.424359702323,25.025626168463,0 121.42436626838,25.0275353668271,0 121.424853943977,25.0277554849356,0 121.425341475845,25.0279334092306,0 121.425851977241,25.0280479771268,0 121.426362296994,25.0281098030704,0 121.426698281318,25.0280455499201,0 121.427022854535,25.0280340696505,0 121.427324460628,25.0280859436681,0 121.427638318322,25.0283276485544,0 121.428148749841,25.0284211123535,0 121.428600886335,25.0284198092208,0 121.42897157652,25.0283343546304,0 121.429272193231,25.0281014272582,0 121.429573212455,25.0279845279094,0 121.429898079476,25.0280574256839,0 121.430257137571,25.0279614532975,0 121.430707799418,25.0275382219213,0 121.424359702323,25.025626168463,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
