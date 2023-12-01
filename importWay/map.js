@@ -20,11 +20,12 @@ var layerControl = L.control.layers(baseMaps).addTo(map);//https://leafletjs.com
 // console.log("layerControl._layers.length:"+layerControl._layers.length); // 1
 // console.log("layerControl._layers[0]:"+layerControl._layers[0]); // undefined
 // console.log("layerControl._layers[0].length:"+layerControl._layers[0].length); // undefined
-console.log("layerControl Object: ");
-// 或者使用 Object.keys
-Object.keys(layerControl).forEach(key => {
-    console.log(`${key}:`, layerControl[key]);
-});
+
+// console.log("layerControl Object: ");
+// // 使用 Object.keys 取得物件的所有 key
+// Object.keys(layerControl).forEach(key => {
+//     console.log(`${key}:`, layerControl[key]);
+// });
 
 var kmlLayers0;
 var kmlLayers1;
@@ -44,13 +45,17 @@ addEventListener("change", function (event) {
         if (layerControl) {
             map.removeControl(layerControl);
             layerControl = L.control.layers(baseMaps).addTo(map);
+            // console.log("重置 layerControl: ");
+            // // 使用 Object.keys 取得物件的所有 key
+            // Object.keys(layerControl).forEach(key => {
+            //     console.log(`${key}:`, layerControl[key]);
+            // });
         }
 
         //kmlFile0Name = select的選項名稱
         var kmlFile0Name = select.options[select.selectedIndex].text;
 
-
-        if (event.target === select) {
+        if (event.target === select) { //如果是選擇kmlFileSelect
             //取得第一層 Region 的 value
             const selectregion = document.getElementById("Region");
             const selectedOption = selectregion.options[selectregion.selectedIndex];
@@ -60,11 +65,11 @@ addEventListener("change", function (event) {
             switch (selectedOptionValue) {
                 case "630006500":
                     region = "Taipei";
-                    console.log("region是台北");
+                    // console.log("region是台北");
                     break;
                 case "64000":
                     region = "Kaohsiung";
-                    console.log("region是高雄");
+                    // console.log("region是高雄");
                     break;
                 default:
                     region = null;
@@ -83,13 +88,16 @@ addEventListener("change", function (event) {
 
                     // 將新的 KML 圖層加到 kmlLayers 中
                     kmlLayers0 = track;
+
                     // console.log("map-kmlLayers0:"+kmlLayers0);
                     layerControl.addOverlay(kmlLayers0, 'KML Layer Red: ' + kmlFile0Name);
-                    
-                    console.log("layerControl Object kml1: ");
-                    Object.keys(layerControl).forEach(key => {
-                        console.log(`${key}:`, layerControl[key]);
-                    });
+
+                    // console.log("layerControl 一 一 一: ");
+                    // // 使用 Object.keys 取得物件的所有 key
+                    // Object.keys(layerControl).forEach(key => {
+                    //     console.log(`${key}:`, layerControl[key]);
+                    // });
+
                     // Adjust map to show the kml
                     const bounds = track.getBounds();
                     map.fitBounds(bounds);
@@ -97,8 +105,10 @@ addEventListener("change", function (event) {
 
 
             let compareTOP3 = [];
-            let kmlFile1, kmlFile2, kmlFile3 = "";
-            function handleDataUpdate() {
+            let kmlFile1, kmlFile2, kmlFile3;
+            console.log("主事件 region: " + region);
+            function handleDataUpdate(region) {
+                console.log("進入handleDataUpdate");
                 if (window.compare && window.compare.arrcase) {
                     //初始化compareTOP3
                     compareTOP3 = [];
@@ -106,7 +116,7 @@ addEventListener("change", function (event) {
                     // console.log("map-top3:"+compareTOP3);
 
                     let json = window.load.data;
-                    // console.log("map-json:"+json);
+                    // console.log("map-json:" + json);
 
                     kmlFile1 = json[compareTOP3[0] - 1].kml;
                     kmlFile2 = json[compareTOP3[1] - 1].kml;
@@ -119,6 +129,7 @@ addEventListener("change", function (event) {
                     var kmlFile3Name = json[compareTOP3[2] - 1].name;
 
                     // Load kml file 相似事件1
+                    console.log("相似事件1 2 3 region: " + region);
                     fetch('leaflet-kml-master/assets/' + region + '/' + kmlFile1)
                         .then(res => res.text())
                         .then(kmltext => {
@@ -182,22 +193,28 @@ addEventListener("change", function (event) {
                             const bounds = track.getBounds();
                             map.fitBounds(bounds);
                         })
-
                 };
+                console.log("相似事件1 2 3 end");
 
             }
 
             // 確認監聽器是否已經被綁定，避免重複綁定
             if (!window.truefalse) {
+
                 // 監聽自定義事件，當資料更新時執行相應的處理
-                // console.log("監聽 region: " + region);
-                document.addEventListener('dataUpdated', handleDataUpdate);
+                console.log("監聽 region: " + region);
+                document.addEventListener('dataUpdated', function () {
+                    // handleDataUpdate(region)包在function裡面，避免立刻執行，否則第一次執行會出錯
+                    handleDataUpdate(region)
+                }
+                );
 
                 // 最初加載時執行一次處理
-                // handleDataUpdate();
+                // handleDataUpdate(region);
 
                 // 標記監聽器已經被綁定
-                // window.truefalse = true; // 這行會讓監聽器只執行一次
+                window.truefalse = true; // 這行會讓監聽器只執行一次
+
             }
 
         }
