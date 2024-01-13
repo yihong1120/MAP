@@ -74,7 +74,7 @@ addEventListener("change", function (event) {
                 default:
                     region = null;
                     break;
-            };
+            }
 
             //fetch('leaflet-kml-master/assets/Kaohsiung/1100731.kml')
             fetch('leaflet-kml-master/assets/' + region + '/' + select.value)
@@ -193,7 +193,7 @@ addEventListener("change", function (event) {
                             const bounds = track.getBounds();
                             map.fitBounds(bounds);
                         })
-                };
+                }
                 console.log("相似事件1 2 3 end");
 
             }
